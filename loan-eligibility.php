@@ -347,7 +347,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">Loan Eligibility</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>Loan Eligibility</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -468,7 +468,7 @@
                                     </div><!-- /.loan-eligibility__content__inner -->
                                     <button type="submit" class="loan-eligibility__content__btn easilon -btn">
                                         <span>Apply for loan</span>
-                                        <span class="easilon -btn__icon"><i class="icon-right-arrow"></i></span>
+                                        <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                     </button><!-- /.loan-eligibility__content__btn -->
                                 </div><!-- /.loan-eligibility__content -->
                             </div><!-- /.loan-eligibility__form__right -->
@@ -639,8 +639,8 @@
         <div class="search-popup__content">
             <form role="search" method="get" class="search-popup__form" action="#">
                 <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon -btn">
-                    <span class="easilon -btn__icon"><i class="icon-search"></i></span>
+                <button type="submit" aria-label="search submit" class="easilon-btn">
+                    <span class="easilon-btn__icon"><i class="icon-search"></i></span>
                 </button>
             </form>
         </div>
@@ -675,7 +675,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/easilon .js"></script>
+    <script src="assets/js/easilon.js"></script>
 </body>
 
 

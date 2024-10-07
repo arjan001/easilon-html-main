@@ -77,9 +77,9 @@
         let totalPay = loanMoney * interestRatePercent + parseInt(loanMoney, 10);
         let monthlyPay = totalPay / parseInt(values[handle], 10);
 
-        loanMonthElm.php(parseInt(values[handle], 10));
-        loanPayElm.php(parseInt(monthlyPay, 10));
-        loanTotalElm.php(parseInt(totalPay, 10));
+        loanMonthElm.html(parseInt(values[handle], 10));
+        loanPayElm.html(parseInt(monthlyPay, 10));
+        loanTotalElm.html(parseInt(totalPay, 10));
       });
 
       countRange.noUiSlider.on("update", function (values, handle) {
@@ -90,9 +90,9 @@
         let totalPay = values[handle] * interestRatePercent + parseInt(values[handle], 10);
         let monthlyPay = totalPay / parseInt(loanMonth, 10);
 
-        loanMonthElm.php(parseInt(loanMonth, 10));
-        loanPayElm.php(parseInt(monthlyPay, 10));
-        loanTotalElm.php(parseInt(totalPay, 10));
+        loanMonthElm.html(parseInt(loanMonth, 10));
+        loanPayElm.html(parseInt(monthlyPay, 10));
+        loanTotalElm.html(parseInt(totalPay, 10));
       });
 
       let loanMoney = limitFieldMinCount.value;
@@ -101,9 +101,9 @@
       let totalPay = loanMoney * interestRatePercent + parseInt(loanMoney, 10);
       let monthlyPay = totalPay / parseInt(loanMonth, 10);
 
-      loanMonthElm.php(parseInt(loanMonth, 10));
-      loanPayElm.php(parseInt(monthlyPay, 10));
-      loanTotalElm.php(parseInt(totalPay, 10));
+      loanMonthElm.html(parseInt(loanMonth, 10));
+      loanPayElm.html(parseInt(monthlyPay, 10));
+      loanTotalElm.html(parseInt(totalPay, 10));
     });
 
   }
@@ -159,12 +159,12 @@
   let dynamicyearElm = $(".dynamic-year");
   if (dynamicyearElm.length) {
     let currentYear = new Date().getFullYear();
-    dynamicyearElm.php(currentYear);
+    dynamicyearElm.html(currentYear);
   }
 
   // Date Picker
-  if ($(".easilon -datepicker").length) {
-    $(".easilon -datepicker").each(function () {
+  if ($(".easilon-datepicker").length) {
+    $(".easilon-datepicker").each(function () {
       $(this).datepicker();
     });
   }
@@ -475,7 +475,7 @@
       var odo = $(".odometer");
       odo.each(function () {
         var countNumber = $(this).attr("data-count");
-        $(this).php(countNumber);
+        $(this).html(countNumber);
       });
     });
   }
@@ -504,8 +504,8 @@
   }
 
   //accordion
-  if ($(".easilon -accordion").length) {
-    var accordionGrp = $(".easilon -accordion");
+  if ($(".easilon-accordion").length) {
+    var accordionGrp = $(".easilon-accordion");
     accordionGrp.each(function () {
       var accordionName = $(this).data("grp-name");
       var Self = $(this);
@@ -518,10 +518,10 @@
           .find(".accordion-title")
           .on("click", function () {
             if ($(this).parent().hasClass("active") === false) {
-              $(".easilon -accordion." + accordionName)
+              $(".easilon-accordion." + accordionName)
                 .find(".accordion")
                 .removeClass("active");
-              $(".easilon -accordion." + accordionName)
+              $(".easilon-accordion." + accordionName)
                 .find(".accordion")
                 .find(".accordion-content")
                 .slideUp();
@@ -604,9 +604,9 @@
 
   function thmOwlInit() {
     // owl slider
-    let easilon owlCarousel = $(".easilon -owl__carousel");
-    if (easilon owlCarousel.length) {
-      easilon owlCarousel.each(function () {
+    let easilonowlCarousel = $(".easilon-owl__carousel");
+    if (easilonowlCarousel.length) {
+      easilonowlCarousel.each(function () {
         let elm = $(this);
         let options = elm.data("owl-options");
         let thmOwlCarousel = elm.owlCarousel(
@@ -617,9 +617,9 @@
         });
       });
     }
-    let easilon owlCarouselNav = $(".easilon -owl__carousel--custom-nav");
-    if (easilon owlCarouselNav.length) {
-      easilon owlCarouselNav.each(function () {
+    let easilonowlCarouselNav = $(".easilon-owl__carousel--custom-nav");
+    if (easilonowlCarouselNav.length) {
+      easilonowlCarouselNav.each(function () {
         let elm = $(this);
         let owlNavPrev = elm.data("owl-nav-prev");
         let owlNavNext = elm.data("owl-nav-next");
@@ -645,14 +645,14 @@
     });
   }
 
-  function easilon SlickInit() {
+  function easilonSlickInit() {
     // slick slider
-    let easilon slickCarousel = $(".easilon -slick__carousel");
-    if (easilon slickCarousel.length) {
-      easilon slickCarousel.each(function () {
+    let easilonslickCarousel = $(".easilon-slick__carousel");
+    if (easilonslickCarousel.length) {
+      easilonslickCarousel.each(function () {
         let elm = $(this);
         let options = elm.data("slick-options");
-        let easilon slickCarousel = elm.slick(
+        let easilonslickCarousel = elm.slick(
           "object" === typeof options ? options : JSON.parse(options)
         );
       });
@@ -760,9 +760,9 @@
   stickyMenuUpScroll($(".sticky-header--normal"), "active");
 
   //Strech Column
-  function easilon _stretch() {
+  function easilon_stretch() {
     var i = $(window).width();
-    $(".row .easilon -stretch-element-inside-column").each(function () {
+    $(".row .easilon-stretch-element-inside-column").each(function () {
       var $this = $(this),
         row = $this.closest(".row"),
         cols = $this.closest('[class^="col-"]'),
@@ -791,9 +791,9 @@
       $this.css(styles);
     });
   }
-  easilon _stretch();
+  easilon_stretch();
 
-  function easilon _cuved_circle() {
+  function easilon_cuved_circle() {
     let circleTypeElm = $(".curved-circle--item");
     if (circleTypeElm.length) {
       circleTypeElm.each(function () {
@@ -836,7 +836,7 @@
     }
     thmOwlInit();
     thmTinyInit();
-    easilon SlickInit();
+    easilonSlickInit();
     priceFilter();
 
     if ($(".circle-progress").length) {
@@ -908,7 +908,7 @@
       });
     }
 
-    easilon _cuved_circle();
+    easilon_cuved_circle();
   });
 
   $(window).on("scroll", function () {
@@ -935,6 +935,6 @@
   });
 
   $(window).on("resize", function () {
-    easilon _stretch();
+    easilon_stretch();
   });
 })(jQuery);

@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">Contact Us</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>Contact Us</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -96,7 +96,7 @@
                         </div><!-- /.contact-one__image -->
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">
-                        <form class="contact-one__form contact-form-validated form-one wow fadeInRight" data-wow-duration="1500ms" action="https://bracketweb.com/easilon -html-main/inc/sendemail.php">
+                        <form class="contact-one__form contact-form-validated form-one wow fadeInRight" data-wow-duration="1500ms" action="https://bracketweb.com/easilon-html-main/inc/sendemail.php">
                             <h2 class="contact-one__form__title">Leave us a message</h2><!-- /.contact-one__form__title -->
                             <div class="form-one__group">
                                 <div class="form-one__control">
@@ -302,8 +302,8 @@
         <div class="search-popup__content">
             <form role="search" method="get" class="search-popup__form" action="#">
                 <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon -btn">
-                    <span class="easilon -btn__icon"><i class="icon-search"></i></span>
+                <button type="submit" aria-label="search submit" class="easilon-btn">
+                    <span class="easilon-btn__icon"><i class="icon-search"></i></span>
                 </button>
             </form>
         </div>
@@ -338,9 +338,9 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/easilon .js"></script>
+    <script src="assets/js/easilon.js"></script>
 </body>
 
 
-<!-- Mirrored from bracketweb.com/easilon -html-main/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 11:10:10 GMT -->
+
 </html>

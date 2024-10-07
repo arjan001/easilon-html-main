@@ -50,7 +50,7 @@
         }'>
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/main-slider-bg-1-1.jpg);">
+                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/1.jpg);">
                         </div><!-- /.main-slider-one__bg -->
                         <div class="main-slider-one__container container">
                             <div class="row gutter-y-60 align-items-center">
@@ -111,7 +111,7 @@
                 </div><!-- /.item -->
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/main-slider-bg-1-2.jpg);">
+                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/2.avif);">
                         </div><!-- /.main-slider-one__bg -->
                         <div class="main-slider-one__container container">
                             <div class="row gutter-y-60 align-items-center">
@@ -173,7 +173,7 @@
                 </div><!-- /.item -->
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/main-slider-bg-1-3.jpg);">
+                        <div class="main-slider-one__bg" style="background-image: url(assets/images/backgrounds/3.jpg);">
                         </div><!-- /.main-slider-one__bg -->
                         <div class="main-slider-one__container container">
                             <div class="row gutter-y-60 align-items-center">
@@ -289,8 +289,8 @@
                     <div class="col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="about-one__image">
                             <div class="about-one__image__inner">
-                                <img src="assets/images/about/about-1-1.jpg" alt="about image">
-                                <img src="assets/images/about/about-1-2.jpg" alt="about image" class="
+                                <img src="assets/images/about/1.jpg" alt="about image">
+                                <img src="assets/images/about/3.jpg" alt="about image" class="
 						about-one__image__with-border">
                                 <img src="assets/images/shapes/about-shape-1-1.png" alt="shapes" class="about-one__image__shape">
                                 <div class="about-one__experience">
@@ -423,25 +423,25 @@
                             <li data-tab="#auto-loan" class="tab-btn active-btn">
                                 <div class="tab-btn__inner">
                                     auto loan
-                                    <a href="service-d-auto-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
+                                    <a href="auto-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
                             <li data-tab="#personal-loan" class="tab-btn">
                                 <div class="tab-btn__inner">
                                     personal loan
-                                    <a href="service-d-personal-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
+                                    <a href="personal-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
                             <li data-tab="#home-loan" class="tab-btn">
                                 <div class="tab-btn__inner">
                                     buy home loan
-                                    <a href="service-d-home-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
+                                    <a href="home-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
                             <li data-tab="#study-loan" class="tab-btn">
                                 <div class="tab-btn__inner">
                                     study abroad loan
-                                    <a href="service-d-study-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
+                                    <a href="study-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
                         </ul><!-- /.tab-buttons -->
@@ -449,36 +449,36 @@
                     <div class="tabs-content wow fadeInRight animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div class="tab active-tab fadeInUp animated" data-wow-delay="200ms" id="auto-loan" style="display: block;">
                             <div class="services-one__service">
-                                <a href="service-d-auto-loan.php" class="services-one__service__image">
-                                    <img src="assets/images/services/service-1-1.jpg" alt="service">
-                                    <img src="assets/images/services/service-1-1.jpg" alt="service">
+                                <a href="auto-loan.php" class="services-one__service__image">
+                                    <img src="assets/images/services/6.avif" alt="service">
+                                    <img src="assets/images/services/6.avif" alt="service">
                                     <span class="services-one__service__overlay"></span>
                                 </a><!-- /.services-one__service__image -->
                             </div><!-- /.services-one__service -->
                         </div><!-- /.modern-tiels-tab -->
                         <div class="tab fadeInUp animated" data-wow-delay="200ms" id="personal-loan" style="display: none;">
                             <div class="services-one__service">
-                                <a href="service-d-personal-loan.php" class="services-one__service__image">
-                                    <img src="assets/images/services/service-1-2.jpg" alt="service">
-                                    <img src="assets/images/services/service-1-2.jpg" alt="service">
+                                <a href="personal-loan.php" class="services-one__service__image">
+                                    <img src="assets/images/services/3.jpg" alt="service">
+                                    <img src="assets/images/services/3.jpg" alt="service">
                                     <span class="services-one__service__overlay"></span>
                                 </a><!-- /.services-one__service__image -->
                             </div><!-- /.services-one__service -->
                         </div><!-- /.floor-removal-tab -->
                         <div class="tab fadeInUp animated" data-wow-delay="200ms" id="home-loan" style="display: none;">
                             <div class="services-one__service">
-                                <a href="service-d-home-loan.php" class="services-one__service__image">
-                                    <img src="assets/images/services/service-1-3.jpg" alt="service">
-                                    <img src="assets/images/services/service-1-3.jpg" alt="service">
+                                <a href="home-loan.php" class="services-one__service__image">
+                                    <img src="assets/images/services/4.jpg" alt="service">
+                                    <img src="assets/images/services/4.jpg" alt="service">
                                     <span class="services-one__service__overlay"></span>
                                 </a><!-- /.services-one__service__image -->
                             </div><!-- /.services-one__service -->
                         </div><!-- /.kitchen-strip-outs-tab -->
                         <div class="tab fadeInUp animated" data-wow-delay="200ms" id="study-loan" style="display: none;">
                             <div class="services-one__service">
-                                <a href="service-d-study-loan.php" class="services-one__service__image">
-                                    <img src="assets/images/services/service-1-4.jpg" alt="service">
-                                    <img src="assets/images/services/service-1-4.jpg" alt="service">
+                                <a href="study-loan.php" class="services-one__service__image">
+                                    <img src="assets/images/services/2.jpg" alt="service">
+                                    <img src="assets/images/services/2.jpg" alt="service">
                                     <span class="services-one__service__overlay"></span>
                                 </a><!-- /.services-one__service__image -->
                             </div><!-- /.services-one__service -->

@@ -7,7 +7,7 @@
                         <div class="col-xl-4 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                             <div class="footer-widget footer-widget--about">
                                 <a href="index.php" class="footer-widget__logo">
-                                    <img src="assets/images/logo-light.png" width="150" alt="easilon  HTML Template">
+                                    <img src="assets/images/loader.png" width="70" alt="easilon HTML Template"> 
                                 </a>
                                 <p class="footer-widget__about-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p><!-- /.footer-widget__about-text -->
                                 <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
@@ -26,7 +26,7 @@
                                 <ul class="list-unstyled footer-widget__links">
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="services.php">Our Services</a></li>
-                                    <li><a href="team.php">Meet the Team</a></li>
+                                    <!-- <li><a href="team.php">Meet the Team</a></li> -->
                                     <li><a href="history.php">Our History</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
@@ -153,20 +153,7 @@
         <!-- /.mobile-nav__content -->
     </div>
     <!-- /.mobile-nav__wrapper -->
-    <div class="search-popup">
-        <div class="search-popup__overlay search-toggler"></div>
-        <!-- /.search-popup__overlay -->
-        <div class="search-popup__content">
-            <form role="search" method="get" class="search-popup__form" action="#">
-                <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon -btn">
-                    <span class="easilon -btn__icon"><i class="icon-search"></i></span>
-                </button>
-            </form>
-        </div>
-        <!-- /.search-popup__content -->
-    </div>
-    <!-- /.search-popup -->
+
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
         <span class="scroll-to-top__text">back TO top</span>

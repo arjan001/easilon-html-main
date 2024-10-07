@@ -7662,7 +7662,7 @@ $.widget( "ui.button", {
 			activeClass = !toggleButton ? "ui-state-active" : "";
 
 		if ( options.label === null ) {
-			options.label = (this.type === "input" ? this.buttonElement.val() : this.buttonElement.php());
+			options.label = (this.type === "input" ? this.buttonElement.val() : this.buttonElement.html());
 		}
 
 		this._hoverable( this.buttonElement );
@@ -7826,7 +7826,7 @@ $.widget( "ui.button", {
 			.removeClass( baseClasses + " ui-state-active " + typeClasses )
 			.removeAttr( "role" )
 			.removeAttr( "aria-pressed" )
-			.php( this.buttonElement.find(".ui-button-text").php() );
+			.html( this.buttonElement.find(".ui-button-text").html() );
 
 		if ( !this.hasTitle ) {
 			this.buttonElement.removeAttr( "title" );
@@ -7892,7 +7892,7 @@ $.widget( "ui.button", {
 		var buttonElement = this.buttonElement.removeClass( typeClasses ),
 			buttonText = $( "<span></span>", this.document[0] )
 				.addClass( "ui-button-text" )
-				.php( this.options.label )
+				.html( this.options.label )
 				.appendTo( buttonElement.empty() )
 				.text(),
 			icons = this.options.icons,
@@ -8989,7 +8989,7 @@ $.extend(Datepicker.prototype, {
 		}
 
 		inst = this._getInst(target[0]);
-		inst.selectedDay = inst.currentDay = $("a", td).php();
+		inst.selectedDay = inst.currentDay = $("a", td).html();
 		inst.selectedMonth = inst.currentMonth = month;
 		inst.selectedYear = inst.currentYear = year;
 		this._selectDate(id, this._formatDate(inst,
@@ -10477,7 +10477,7 @@ var dialog = $.widget( "ui.dialog", {
 
 	_title: function( title ) {
 		if ( !this.options.title ) {
-			title.php( "&#160;" );
+			title.html( "&#160;" );
 		}
 		title.text( this.options.title );
 	},
@@ -11361,7 +11361,7 @@ var selectmenu = $.widget( "ui.selectmenu", {
 		if ( value ) {
 			element.text( value );
 		} else {
-			element.php( "&#160;" );
+			element.html( "&#160;" );
 		}
 	},
 
@@ -13699,7 +13699,7 @@ var tabs = $.widget( "ui.tabs", {
 					// support: jQuery <1.8
 					// http://bugs.jquery.com/ticket/11778
 					setTimeout(function() {
-						panel.php( response );
+						panel.html( response );
 						that._trigger( "load", event, eventData );
 
 						complete( jqXHR, status );

@@ -42,7 +42,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">our Team</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>our Team</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -549,7 +549,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/easilon .js"></script>
+    <script src="assets/js/easilon.js"></script>
 </body>
 
 

@@ -389,7 +389,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">kevin martin</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>our team</span></li>
                         <li><span>kevin martin</span></li>

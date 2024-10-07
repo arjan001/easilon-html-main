@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">apply loan</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>apply loan</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -143,7 +143,7 @@
                                 <div class="apply-loan__form__control">
                                     <label for="datepicker">Birth Date*</label>
                                     <div class="apply-loan__form__date">
-                                        <input type="text" name="date" placeholder="DD / MM / YY" id="datepicker" class="easilon -datepicker">
+                                        <input type="text" name="date" placeholder="DD / MM / YY" id="datepicker" class="easilon-datepicker">
                                         <span class="apply-loan__form__date__icon">
                                             <i class="icon-down"></i>
                                         </span><!-- /.apply-loan__form__date__icon -->
@@ -264,12 +264,12 @@
                             </div>
                         </div><!-- /.pply-loan__form -->
                     </div><!-- /.apply-loan__details -->
-                    <button type="submit" class="apply-loan__form__btn easilon -btn">
+                    <button type="submit" class="apply-loan__form__btn easilon-btn">
                         <span>submit now</span>
-                        <span class="easilon -btn__icon">
+                        <span class="easilon-btn__icon">
                             <i class="icon-double-right-arrow"></i>
                         </span>
-                    </button><!-- /.apply-loan__form__btn easilon -btn -->
+                    </button><!-- /.apply-loan__form__btn easilon-btn -->
                 </form><!-- /.apply-loan__form -->
             </div><!-- /.container -->
         </section><!-- /.apply-loan section-space -->
@@ -283,7 +283,7 @@
                         <div class="col-xl-4 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                             <div class="footer-widget footer-widget--about">
                                 <a href="index.php" class="footer-widget__logo">
-                                    <img src="assets/images/logo-light.png" width="150" alt="easilon  HTML Template">
+                                    <img src="assets/images/logo-light.png" width="150" alt="easilon HTML Template">
                                 </a>
                                 <p class="footer-widget__about-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p><!-- /.footer-widget__about-text -->
                                 <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
@@ -400,7 +400,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <span class="mobile-nav__contact__icon"><i class="fa fa-envelope"></i></span>
-                    <a href="mailto:needhelp@easilon .com">needhelp@easilon .com</a>
+                    <a href="mailto:needhelp@easilon.com">needhelp@easilon .com</a>
                 </li>
                 <li>
                     <span class="mobile-nav__contact__icon"><i class="fa fa-phone-alt"></i></span>
@@ -435,8 +435,8 @@
         <div class="search-popup__content">
             <form role="search" method="get" class="search-popup__form" action="#">
                 <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon -btn">
-                    <span class="easilon -btn__icon"><i class="icon-search"></i></span>
+                <button type="submit" aria-label="search submit" class="easilon-btn">
+                    <span class="easilon-btn__icon"><i class="icon-search"></i></span>
                 </button>
             </form>
         </div>
@@ -471,9 +471,9 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/easilon .js"></script>
+    <script src="assets/js/easilon.js"></script>
 </body>
 
 
-<!-- Mirrored from bracketweb.com/easilon -html-main/apply-loan.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 11:09:54 GMT -->
+<!-- Mirrored from bracketweb.com/easilon-html-main/apply-loan.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 11:09:54 GMT -->
 </html>

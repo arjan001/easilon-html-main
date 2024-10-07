@@ -43,7 +43,7 @@
             <div class="container">
                 <div class="page-header__content">
                     <h2 class="page-header__title">About us</h2>
-                    <ul class="easilon -breadcrumb list-unstyled">
+                    <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>About us</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -368,8 +368,8 @@
                         </div><!-- /.testimonials-two__content -->
                     </div><!-- /.col-xl-6 -->
                     <div class="col-xl-6">
-                        <div class="easilon -stretch-element-inside-column">
-                            <div class="testimonials-two__carousel easilon -owl__carousel owl-theme owl-carousel" data-owl-options='{
+                        <div class="easilon-stretch-element-inside-column">
+                            <div class="testimonials-two__carousel easilon-owl__carousel owl-theme owl-carousel" data-owl-options='{
                         "items": 1,
                         "margin": 30,
                         "smartSpeed": 700,
@@ -435,20 +435,20 @@
                                                     <h4 class="testimonial-card-two__name">Michael G. Ware</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
-                                                <div class="easilon -ratings">
-                                                    <span class="easilon -ratings__icon">
+                                                <div class="easilon-ratings">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
                                                 </div><!-- /.product-ratings -->
@@ -476,20 +476,20 @@
                                                     <h4 class="testimonial-card-two__name">Mike Hardson</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
-                                                <div class="easilon -ratings">
-                                                    <span class="easilon -ratings__icon">
+                                                <div class="easilon-ratings">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
+                                                        <i class="fa fa-star"></i>
+                                                    </span><!-- /.easilon-ratings__icon -->
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
-                                                        <i class="fa fa-star"></i>
-                                                    </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
                                                 </div><!-- /.product-ratings -->
@@ -517,20 +517,20 @@
                                                     <h4 class="testimonial-card-two__name">Judith White</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
-                                                <div class="easilon -ratings">
-                                                    <span class="easilon -ratings__icon">
+                                                <div class="easilon-ratings">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
-                                                    <span class="easilon -ratings__icon">
+                                                    <span class="easilon-ratings__icon">
                                                         <i class="fa fa-star"></i>
                                                     </span><!-- /.easilon -ratings__icon -->
                                                 </div><!-- /.product-ratings -->
@@ -561,7 +561,7 @@
                     </div><!-- /.sec-title__top -->
                     <h3 class="sec-title__title">our awesome team</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
-                <div class="team-one__carousel easilon -owl__carousel easilon -owl__carousel--basic-nav owl-carousel owl-theme" data-owl-options='{
+                <div class="team-one__carousel easilon-owl__carousel easilon -owl__carousel--basic-nav owl-carousel owl-theme" data-owl-options='{
 			"items": 1,
 			"margin": 10,
 			"loop": true,
@@ -1040,8 +1040,8 @@
         <div class="search-popup__content">
             <form role="search" method="get" class="search-popup__form" action="#">
                 <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon -btn">
-                    <span class="easilon -btn__icon"><i class="icon-search"></i></span>
+                <button type="submit" aria-label="search submit" class="easilon-btn">
+                    <span class="easilon-btn__icon"><i class="icon-search"></i></span>
                 </button>
             </form>
         </div>
@@ -1076,7 +1076,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/easilon .js"></script>
+    <script src="assets/js/easilon.js"></script>
 </body>
 
 
