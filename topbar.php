@@ -6,13 +6,13 @@
                             <span class="topbar__info__icon">
                                 <i class="icon-mail-1"></i>
                             </span>
-                            <a href="mailto:needhelp@company.com">needhelp@company.comx</a>
+                            <a href="mailto:needhelp@company.com">admin@smsl.co.ke</a>
                         </li>
                         <li>
                             <span class="topbar__info__icon topbar__info__icon--phone">
                                 <i class="icon-headset"></i>
                             </span>
-                            <a href="tel:16205">16205</a>
+                            <a href="tel:07123456789">07123456789</a>
                         </li>
                     </ul><!-- /.list-unstyled topbar__info -->
                     <div class="topbar__right">

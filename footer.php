@@ -98,7 +98,7 @@
                             <div class="col-md-7 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                                 <div class="main-footer__bottom__copyright">
                                     <p class="main-footer__copyright">
-                                        &copy; Copyright <span class="dynamic-year"></span> by KAYTON TECH 
+                                        &copy; Copyright <span class="dynamic-year"></span> by SMSL 
                                     </p>
                                 </div><!-- /.main-footer__bottom__copyright -->
                             </div><!-- /.col-md-7 -->
@@ -124,11 +124,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <span class="mobile-nav__contact__icon"><i class="fa fa-envelope"></i></span>
-                    <a href="mailto:needhelp@easilon .com">needhelp@easilon .com</a>
+                    <a href="mailto:needhelp@easilon .com">admin@smsl.co.ke</a>
                 </li>
                 <li>
                     <span class="mobile-nav__contact__icon"><i class="fa fa-phone-alt"></i></span>
-                    <a href="tel:+9156980036420">+91 5698 0036 420</a>
+                    <a href="tel:07123456789">07123456789</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__social">

@@ -11,7 +11,7 @@
                             <ul class="main-menu__list">
 
                                 <li class="dropdown megamenu">
-                                    <a href="index.php">Homez</a>
+                                    <a href="index.php">Home</a>
 
                                 </li>
 
