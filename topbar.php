@@ -17,9 +17,7 @@
                     </ul><!-- /.list-unstyled topbar__info -->
                     <div class="topbar__right">
                         <ul class="list-unstyled topbar__pages">
-                            <li><a href="login.php">log in</a></li>
-                            <li><a href="about.php">career</a></li>
-                            <li><a href="about.php">media</a></li>
+            
                             <li><a href="faq.php">Faq’s</a></li>
                         </ul><!-- /.topbar__pages -->
                         <div class="topbar__social">
