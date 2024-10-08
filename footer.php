@@ -9,7 +9,7 @@
                                 <a href="index.php" class="footer-widget__logo">
                                     <img src="assets/images/loader.png" width="70" alt="easilon HTML Template"> 
                                 </a>
-                                <p class="footer-widget__about-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p><!-- /.footer-widget__about-text -->
+                                <p class="footer-widget__about-text">SMSL – Fast, Flexible Loans to Help You Achieve Your Dreams. Apply Today and Take Control of Your Finances!</p><!-- /.footer-widget__about-text -->
                                 <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
                                     <input type="text" name="EMAIL" placeholder="Enter Email">
                                     <button type="submit">

@@ -64,15 +64,15 @@
                     <div class="col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="about-one__image">
                             <div class="about-one__image__inner">
-                                <img src="assets/images/about/about-1-1.jpg" alt="about image">
-                                <img src="assets/images/about/about-1-2.jpg" alt="about image" class="
+                                <img src="assets/images/about/1.jpg" alt="about image">
+                                <img src="assets/images/about/about-2-2.jpg" alt="about image" class="
 						about-one__image__with-border">
                                 <img src="assets/images/shapes/about-shape-1-1.png" alt="shapes" class="about-one__image__shape">
                                 <div class="about-one__experience">
                                     <div class="about-one__experience__bg" style="background-image: url(assets/images/shapes/about-experience-bg-1-1.png);"></div>
                                     <!-- /.about-one__experience__bg -->
                                     <div class="about-one__experience__content">
-                                        <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="video-btn video-popup">
+                                        <a href="#" class="video-btn video-popup">
                                             <i class="icon-play"></i>
                                             <span></span>
                                             <span></span>
@@ -95,14 +95,12 @@
                                         <div class="sec-title__shape__one"></div><!-- /.sec-title__shape__one -->
                                         <div class="sec-title__shape__two"></div><!-- /.sec-title__shape__one -->
                                     </div><!-- /.sec-title__shape -->
-                                    <h6 class="sec-title__tagline">welcome to easilon </h6><!-- /.sec-title__tagline -->
+                                    <h6 class="sec-title__tagline">welcome to SMSL </h6><!-- /.sec-title__tagline -->
                                 </div><!-- /.sec-title__top -->
                                 <h3 class="sec-title__title">Our Loans will Fill Your <br> Dreams Come True</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="about-one__text-box wow fadeInUp" data-wow-duration="1500ms">
-                                <p class="about-one__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco</p><!-- /.about-one__text -->
+                                <p class="about-one__text ">At SMSL, we believe that financial freedom should be accessible to everyone. Our mission is to provide flexible and fast short-term loan solutions that help our clients achieve their personal and business goals. Whether you need funds for an emergency, home improvement, or expanding your business, SMSL is here to support you with transparent and easy-to-manage loan options.</p><!-- /.about-one__text -->
                             </div><!-- /.about-one__text-box -->
                             <div class="about-one__list">
                                 <div class="about-one__list__left wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
@@ -134,14 +132,7 @@
                                     </div>
                                 </div><!-- /.about-one__list__right -->
                             </div><!-- /.about-one__list -->
-                            <div class="about-one__button wow fadeInUp" data-wow-duration="1500ms">
-                                <a href="about.php" class="easilon -btn easilon -btn--border">
-                                    <span>know about us</span>
-                                    <span class="easilon -btn__icon">
-                                        <i class="icon-double-right-arrow"></i>
-                                    </span>
-                                </a><!-- /.easilon -btn -->
-                            </div><!-- /.about-one__button -->
+                         
                         </div><!-- /.about-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row gutter-y-50 -->
@@ -166,9 +157,7 @@
                                 <h3 class="sec-title__title">why choose us</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="why-choose-one__text-box wow fadeInUp" data-wow-duration="1500ms">
-                                <p class="why-choose-one__text">There are many variations of passages of Lorem Ipsum available,
-                                    but the majority have suffered alteration in some form, by injected humour, or randomised
-                                    words which don't look even slightly believable. If you are going to use a passag</p>
+                                <p class="why-choose-one__text">At SMSL, we offer fast, flexible, and transparent loan solutions to meet your needs. With quick approvals, easy repayment options, and no hidden fees, we make borrowing stress-free. Trusted by thousands, our secure platform ensures your information is safe, and our dedicated support team is always ready to assist. Whether it's for personal or business needs, SMSL is here to help you achieve your financial goals with ease and confidence.</p>
                                 <!-- /.why-choose-one__text -->
                             </div><!-- /.why-choose-one__text-box -->
                             <div class="why-choose-one__list">
@@ -217,7 +206,7 @@
                         <div class="why-choose-one__image">
                             <div class="why-choose-one__image__inner">
                                 <div class="why-choose-one__image__one">
-                                    <img src="assets/images/resources/why-choose-1-1.jpg" alt="why choose image">
+                                    <img src="assets/images/resources/team-2-2.jpg" alt="why choose image">
                                     <img src="assets/images/shapes/why-choose-shape-1-1.png" alt="shape" class="why-choose-one__image__one__shape">
                                 </div><!-- /.why-choose-one__image__one -->
                                 <div class="why-choose-one__image__two">
@@ -271,8 +260,7 @@
                             <div class="loan-reasons-one__card__content">
                                 <h3 class="loan-reasons-one__card__title">Need a new car?</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">In a free hour, when our power of choice is untrammelled
-                                    and when nothing prevents dolor sit</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Just give us a call or click the apply button, and let SMSL help make your dream car a reality. Fast approvals, flexible terms—getting your new ride has never been easier!</p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
@@ -283,8 +271,7 @@
                             <div class="loan-reasons-one__card__content">
                                 <h3 class="loan-reasons-one__card__title">Consolidate your debt</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">There are many variations of passages of Lorem Ipsum
-                                    available, but the majority have</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Simply call us or click the apply button, and let SMSL simplify your finances. With one easy payment and flexible terms, managing your debt has never been more straightforward!</p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
@@ -295,8 +282,7 @@
                             <div class="loan-reasons-one__card__content">
                                 <h3 class="loan-reasons-one__card__title">Home improvement</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor
-                                    Incididunt Ut Labore Et Dolore Magna</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Planning a home improvement? Call us or click the apply button, and SMSL will provide the funds you need to transform your space. Fast, flexible loans to make your dream home</p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
@@ -340,7 +326,7 @@
                     <div class="funfact-one__col col-lg-3 col-sm-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                         <div class="funfact-one__item">
                             <h3 class="funfact-one__item__number count-box">
-                                <span class="count-text" data-stop="550" data-speed="1500"></span>
+                                <span class="count-text" data-stop="20" data-speed="1500"></span>
                             </h3>
                             <h4 class="funfact-one__item__title">staff members</h4><!-- /.funfact-one__item__title -->
                         </div><!-- /.funfact-one__item -->
@@ -362,7 +348,7 @@
                                     </div><!-- /.sec-title__shape -->
                                     <h6 class="sec-title__tagline">our testimonials</h6><!-- /.sec-title__tagline -->
                                 </div><!-- /.sec-title__top -->
-                                <h3 class="sec-title__title">peoples talk about <br> easilon  service</h3><!-- /.sec-title__title -->
+                                <h3 class="sec-title__title">peoples talk about <br> SMSL   service</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="testimonials-two__custome-navs"></div><!-- /.testimonials-two__custome-navs -->
                         </div><!-- /.testimonials-two__content -->
@@ -429,7 +415,7 @@
                                                     <path d="M44.0082 21.7756H33.3704V0.5H54.646V22.1576L47.4117 36.6259H37.3919L44.4554 22.4992L44.8172 21.7756H44.0082Z" />
                                                 </svg><!-- /.testimonial-card-two__icon -->
                                             </div><!-- /.testimonial-card-two__top -->
-                                            <p class="testimonial-card-two__quote">I recently worked with <span>easilon </span> for my home renovation project, and I couldn't be happier with the results. From the moment I walked into</p><!-- /.testimonial-card-two__quote -->
+                                            <p class="testimonial-card-two__quote">SMSL is by far the best loan company I’ve worked with. I needed a personal loan for some home repairs, and they made the entire process quick and hassle-free. Their interest rates were reasonable, and the online portal made it easy to track my payments. I’m definitely going to use them again if the need arises!</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Michael G. Ware</h4><!-- /.testimonial-card-two__name -->
@@ -470,7 +456,7 @@
                                                     <path d="M44.0082 21.7756H33.3704V0.5H54.646V22.1576L47.4117 36.6259H37.3919L44.4554 22.4992L44.8172 21.7756H44.0082Z" />
                                                 </svg><!-- /.testimonial-card-two__icon -->
                                             </div><!-- /.testimonial-card-two__top -->
-                                            <p class="testimonial-card-two__quote">Deploy encourage & support business growth. Everyone thinks the soup tastes better after pissed in it in an ideal world, and we need</p><!-- /.testimonial-card-two__quote -->
+                                            <p class="testimonial-card-two__quote">I was hesitant at first about taking out a loan, but SMSL made the process transparent and straightforward. The flexible repayment options made it easy to manage, and there were no hidden fees. I was also pleasantly surprised that I could pay off my loan early without penalties. Highly satisfied with the service!”</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Mike Hardson</h4><!-- /.testimonial-card-two__name -->
@@ -511,7 +497,7 @@
                                                     <path d="M44.0082 21.7756H33.3704V0.5H54.646V22.1576L47.4117 36.6259H37.3919L44.4554 22.4992L44.8172 21.7756H44.0082Z" />
                                                 </svg><!-- /.testimonial-card-two__icon -->
                                             </div><!-- /.testimonial-card-two__top -->
-                                            <p class="testimonial-card-two__quote">Churning anomalies we don't want to boil the ocean hit the ground running, and corporate synergy, and can you put it into a banner</p><!-- /.testimonial-card-two__quote -->
+                                            <p class="testimonial-card-two__quote">As a small business owner, cash flow can be unpredictable, and SMSL’s short-term business loans have been a lifesaver. I’ve used them twice now, and each time, the approval was lightning-fast, with minimal paperwork. It’s great to work with a company that understands the needs of small businesses</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Judith White</h4><!-- /.testimonial-card-two__name -->
@@ -638,7 +624,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-2.jpg" alt="Sarah Albert">
+                                <img src="assets/images/team/features-1-1.jpg" alt="Sarah Albert">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -732,353 +718,16 @@
                         </div><!-- /.team-card -->
                     </div><!-- /.item -->
                     <div class="item">
-                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='00ms'>
-                            <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-4.jpg" alt="kevin martin">
-                            </a><!-- /.team-card__image-->
-                            <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
-                                <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">kevin martin</a></h3><!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p><!-- /.team-card__designation -->
-                                </div><!-- /.team-card__identity -->
-                                <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
-                            </div><!-- /.team-card__hover -->
-                            <div class="team-card__shape">
-                                <svg class="team-card__shape__one" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M89 5.96046e-06L89 22.6564C89 41.0383 74.0985 55.9399 55.7166 55.9399L44.9632 55.9399C32.5202 55.9399 22.4331 66.0755 22.4331 78.5185V78.5185C22.4331 90.908 12.3895 101 -4.88758e-06 101V101" />
-                                </svg><!-- /.team-card__shape__one -->
-                                <svg class="team-card__shape__two" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2 103L2 80.3436C2 61.9617 16.9015 47.0601 35.2834 47.0601H46.0368C58.4798 47.0601 68.5669 36.9245 68.5669 24.4815V24.4815C68.5669 12.092 78.6105 2 91 2V2" />
-                                </svg><!-- /.team-card__shape__two -->
-                            </div><!-- /.team-card__shape -->
-                        </div><!-- /.team-card -->
+
                     </div><!-- /.item -->
-                    <div class="item">
-                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
-                            <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-5.jpg" alt="Kendra Mcgee">
-                            </a><!-- /.team-card__image-->
-                            <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
-                                <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">Kendra Mcgee</a></h3><!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p><!-- /.team-card__designation -->
-                                </div><!-- /.team-card__identity -->
-                                <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
-                            </div><!-- /.team-card__hover -->
-                            <div class="team-card__shape">
-                                <svg class="team-card__shape__one" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M89 5.96046e-06L89 22.6564C89 41.0383 74.0985 55.9399 55.7166 55.9399L44.9632 55.9399C32.5202 55.9399 22.4331 66.0755 22.4331 78.5185V78.5185C22.4331 90.908 12.3895 101 -4.88758e-06 101V101" />
-                                </svg><!-- /.team-card__shape__one -->
-                                <svg class="team-card__shape__two" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2 103L2 80.3436C2 61.9617 16.9015 47.0601 35.2834 47.0601H46.0368C58.4798 47.0601 68.5669 36.9245 68.5669 24.4815V24.4815C68.5669 12.092 78.6105 2 91 2V2" />
-                                </svg><!-- /.team-card__shape__two -->
-                            </div><!-- /.team-card__shape -->
-                        </div><!-- /.team-card -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='400ms'>
-                            <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-6.jpg" alt="Sabrina Melton">
-                            </a><!-- /.team-card__image-->
-                            <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
-                                <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">Sabrina Melton</a></h3><!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p><!-- /.team-card__designation -->
-                                </div><!-- /.team-card__identity -->
-                                <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
-                            </div><!-- /.team-card__hover -->
-                            <div class="team-card__shape">
-                                <svg class="team-card__shape__one" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M89 5.96046e-06L89 22.6564C89 41.0383 74.0985 55.9399 55.7166 55.9399L44.9632 55.9399C32.5202 55.9399 22.4331 66.0755 22.4331 78.5185V78.5185C22.4331 90.908 12.3895 101 -4.88758e-06 101V101" />
-                                </svg><!-- /.team-card__shape__one -->
-                                <svg class="team-card__shape__two" viewBox="0 0 91 103" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2 103L2 80.3436C2 61.9617 16.9015 47.0601 35.2834 47.0601H46.0368C58.4798 47.0601 68.5669 36.9245 68.5669 24.4815V24.4815C68.5669 12.092 78.6105 2 91 2V2" />
-                                </svg><!-- /.team-card__shape__two -->
-                            </div><!-- /.team-card__shape -->
-                        </div><!-- /.team-card -->
-                    </div><!-- /.item -->
+                    
+
                 </div><!-- /.team-one__carousel -->
             </div><!-- /.container -->
         </section><!-- /.team-one section-space -->
 
-        <footer class="main-footer @@extraClassName">
-            <div class="main-footer__bg" style="background-image: url(assets/images/shapes/footer-bg-1-1.png);"></div>
-            <!-- /.main-footer__bg -->
-            <div class="main-footer__top">
-                <div class="container">
-                    <div class="row gutter-y-40">
-                        <div class="col-xl-4 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                            <div class="footer-widget footer-widget--about">
-                                <a href="index.php" class="footer-widget__logo">
-                                    <img src="assets/images/logo-light.png" width="150" alt="easilon  HTML Template">
-                                </a>
-                                <p class="footer-widget__about-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p><!-- /.footer-widget__about-text -->
-                                <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
-                                    <input type="text" name="EMAIL" placeholder="Enter Email">
-                                    <button type="submit">
-                                        <span class="sr-only">submit</span><!-- /.sr-only -->
-                                        <i class="icon-right-arrow"></i>
-                                    </button>
-                                </form><!-- /.footer-widget__newsletter mc-form -->
-                                <div class="mc-form__response"></div><!-- /.mc-form__response -->
-                            </div><!-- /.footer-widget -->
-                        </div><!-- /.col-xl-4 col-lg-6 -->
-                        <div class="col-xl-2 col-lg-3 col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                            <div class="footer-widget footer-widget--links footer-widget--links-one">
-                                <h2 class="footer-widget__title">Explore</h2><!-- /.footer-widget__title -->
-                                <ul class="list-unstyled footer-widget__links">
-                                    <li><a href="about.php">About Us</a></li>
-                                    <li><a href="services.php">Our Services</a></li>
-                                    <li><a href="team.php">Meet the Team</a></li>
-                                    <li><a href="blog-grid-right.php">Recent News</a></li>
-                                    <li><a href="contact.php">Contact</a></li>
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-                            </div><!-- /.footer-widget -->
-                        </div><!-- /.col-xl-2 col-lg-3 col-md-3 col-sm-6 -->
-                        <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
-                            <div class="footer-widget footer-widget--links footer-widget--links-two">
-                                <h2 class="footer-widget__title">Loan Services</h2><!-- /.footer-widget__title -->
-                                <ul class="list-unstyled footer-widget__links">
-                                    <li><a href="service-d-bike-loan.php">bike loan</a></li>
-                                    <li><a href="service-d-home-loan.php">home loan</a></li>
-                                    <li><a href="service-d-study-loan.php">abroad study loan</a></li>
-                                    <li><a href="service-d-business-loan.php">business loan</a></li>
-                                    <li><a href="personal-loan.php">personal loan</a></li>
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-                            </div><!-- /.footer-widget -->
-                        </div><!-- /.col-xl-3 col-lg-3 col-md-4 col-sm-6 -->
-                        <div class="col-xl-3 col-lg-6 col-md-5 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                            <div class="footer-widget footer-widget--contact">
-                                <h2 class="footer-widget__title">Get inTouch</h2><!-- /.footer-widget__title -->
-                                <ul class="list-unstyled footer-widget__info">
-                                    <li><a href="https://www.google.com/maps">85 Ketch Harbour Road Bensal PA 19020</a></li>
-                                    <li>
-                                        <span class="footer-widget__info__icon"><i class="icon-paper-plane"></i></span>
-                                        <a href="mailto:needhelp@company.com">needhelp@company.com</a>
-                                    </li>
-                                    <li>
-                                        <span class="footer-widget__info__icon"><i class="icon-telephone"></i></span>
-                                        <a href="tel:+9156980036420">+91 5698 0036 420</a>
-                                    </li>
-                                </ul><!-- /.list-unstyled -->
-                            </div><!-- /.footer-widget -->
-                        </div><!-- /.col-xl-3 col-lg-6 col-md-5 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </div><!-- /.main-footer__top -->
-            <div class="main-footer__bottom">
-                <div class="container">
-                    <div class="main-footer__bottom__inner">
-                        <div class="row gutter-y-40 align-items-center">
-                            <div class="col-md-5 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="000ms">
-                                <div class="main-footer__social social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.main-footer__social -->
-                            </div><!-- /.col-md-5 -->
-                            <div class="col-md-7 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                                <div class="main-footer__bottom__copyright">
-                                    <p class="main-footer__copyright">
-                                        &copy; Copyright <span class="dynamic-year"></span> by easilon  HTML Template.
-                                    </p>
-                                </div><!-- /.main-footer__bottom__copyright -->
-                            </div><!-- /.col-md-7 -->
-                        </div><!-- /.row -->
-                    </div><!-- /.main-footer__inner -->
-                </div><!-- /.container -->
-            </div><!-- /.main-footer__bottom -->
-        </footer><!-- /.main-footer -->
+              <!-- footer code will be here -->
 
-    </div><!-- /.page-wrapper -->
-
-    <div class="mobile-nav__wrapper">
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-        <!-- /.mobile-nav__overlay -->
-        <div class="mobile-nav__content">
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="icon-close"></i></span>
-            <div class="logo-box logo-retina">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="" /></a>
-            </div>
-            <!-- /.logo-box -->
-            <div class="mobile-nav__container"></div>
-            <!-- /.mobile-nav__container -->
-            <ul class="mobile-nav__contact list-unstyled">
-                <li>
-                    <span class="mobile-nav__contact__icon"><i class="fa fa-envelope"></i></span>
-                    <a href="mailto:needhelp@easilon .com">needhelp@easilon .com</a>
-                </li>
-                <li>
-                    <span class="mobile-nav__contact__icon"><i class="fa fa-phone-alt"></i></span>
-                    <a href="tel:+9156980036420">+91 5698 0036 420</a>
-                </li>
-            </ul><!-- /.mobile-nav__contact -->
-            <div class="mobile-nav__social">
-                <a href="https://facebook.com/">
-                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                    <span class="sr-only">Facebook</span>
-                </a>
-                <a href="https://twitter.com/">
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
-                    <span class="sr-only">Twitter</span>
-                </a>
-                <a href="https://instagram.com/">
-                    <i class="fab fa-instagram" aria-hidden="true"></i>
-                    <span class="sr-only">Instagram</span>
-                </a>
-                <a href="https://youtube.com/">
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-                    <span class="sr-only">Youtube</span>
-                </a>
-            </div><!-- /.mobile-nav__social -->
-        </div>
-        <!-- /.mobile-nav__content -->
-    </div>
-    <!-- /.mobile-nav__wrapper -->
-    <div class="search-popup">
-        <div class="search-popup__overlay search-toggler"></div>
-        <!-- /.search-popup__overlay -->
-        <div class="search-popup__content">
-            <form role="search" method="get" class="search-popup__form" action="#">
-                <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="easilon-btn">
-                    <span class="easilon-btn__icon"><i class="icon-search"></i></span>
-                </button>
-            </form>
-        </div>
-        <!-- /.search-popup__content -->
-    </div>
-    <!-- /.search-popup -->
-
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
-        <span class="scroll-to-top__text">back top</span>
-        <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
-    </a>
-
-    <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
-    <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
-    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-    <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
-    <script src="assets/vendors/slick/slick.min.js"></script>
-    <script src="assets/vendors/wow/wow.js"></script>
-    <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
-    <script src="assets/vendors/isotope/isotope.js"></script>
-    <script src="assets/vendors/countdown/countdown.min.js"></script>
-    <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
-    <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
-    <!-- template js -->
-    <script src="assets/js/easilon.js"></script>
-</body>
-
-
-<!-- Mirrored from bracketweb.com/easilon -html-main/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 11:09:13 GMT -->
-</html>
+              <?php include 'footer.php'; ?>
+    
+    <!-- footer ends here -->
