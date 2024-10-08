@@ -419,7 +419,7 @@
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Michael G. Ware</h4><!-- /.testimonial-card-two__name -->
-                                                    <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
+                                                    <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
                                                     <span class="easilon-ratings__icon">
@@ -460,7 +460,7 @@
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Mike Hardson</h4><!-- /.testimonial-card-two__name -->
-                                                    <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
+                                                    <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
                                                     <span class="easilon-ratings__icon">
@@ -501,7 +501,7 @@
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
                                                     <h4 class="testimonial-card-two__name">Judith White</h4><!-- /.testimonial-card-two__name -->
-                                                    <p class="testimonial-card-two__designation">managing director</p><!-- /.testimonial-card-two__designation -->
+                                                    <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
                                                     <span class="easilon-ratings__icon">

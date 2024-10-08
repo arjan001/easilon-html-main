@@ -73,24 +73,19 @@
                                     <img src="assets/images/services/3.jpg" alt="personal loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">personal loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
-                                    variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-                                    injected humour, or randomised words which don't look even slightly believable. If you are going to use a
-                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this
-                                    the first true generator on the Internet. It uses a dictionary of over 200 Latin words,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that life can be unpredictable, and sometimes you need a little extra financial support to navigate those challenges. Our personal loans are designed to provide you with the flexibility and convenience you need, whether it's for unexpected expenses, home improvements, or personal projects,</p>
+
+                                <ul>
+                                    <li>Quick and Easy Application: Our online application process is straightforward and user-friendly, allowing you to apply for a personal loan from the comfort of your home. Get approved in just a few hours!</li>
+                                    <li>Flexible Loan Amounts: We offer a range of loan amounts to suit your needs, whether you require a small sum for a minor expense or a larger amount for significant projects.</li>
+                                    <li>Competitive Interest Rates: SMSL is committed to transparency and fairness. We provide competitive interest rates with no hidden fees, ensuring you know exactly what to expect.</li>
+                                    <li>Customizable Repayment Plans: We believe in making your financial life easier. Choose from various repayment options tailored to fit your budget, so you can repay your loan comfortably.</li>
+                                    <li>Dedicated Customer Support: Our friendly team is here to assist you at every step. Whether you have questions about the application process or need help managing your loan, we are just a call away.</li>
+                                </ul>
+                                <p>Let SMSL help you take control of your finances and turn your plans into reality with a personal loan that meets your needs. Apply now and experience the difference!</p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
-                            <div class="service-details__inner-two">
-                                <h3 class="service-details__title service-details__inner-two__title">Where can I get some?</h3>
-                                <!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">mistaken idea of
-                                    denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
-                                    expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No
-                                    one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know
-                                    how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
-                                <!-- /.service-details__text -->
-                            </div><!-- /.service-details__inner-two -->
+
                             <div class="service-details__info wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                 <ul class="list-unstyled service-details__list">
                                     <li>
@@ -112,52 +107,8 @@
                                 </ul><!-- /.list-unstyled team-details__list -->
                                 <img src="assets/images/services/service-d-list-1.jpg" alt="service-d-list" class="service-details__info__image">
                             </div><!-- /.service-details__info -->
-                            <p class="service-details__text-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Continually myocardinate holistic mindshare with client-based web services. Assertively e-enable catalysts for change before tested markets. Phosfluorescently maintain wireless scenarios after intermandated applications. Conveniently predominate revolutionary quality vectors through future-proof manufactured products. Enthusiastically transform</p><!-- /.service-details__text-two -->
-                            <div class="service-details__faq">
-                                <h3 class="service-details__faq__title service-details__title">Where can I get some?</h3>
-                                <!-- /.service-details__title -->
-                                <div class="faq-accordion easilon-accordion" data-grp-name="easilon-accordion">
-                                    <div class="accordion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What services does your construction company offer?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generatio</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                How do I request a quote for my construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Prior to joining company, she spent 20+ years at Inmosys, where he held a wide range of global leadership roles, from services to products, and across operations and sales. Most recently, he was SVP & Global Head of the Manufacturing busines.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What is the timeline for a construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>You can find him dining late at night with the chefs of the hotels where he stays during his travels across operations and sales. Most recently, he was SVP & Global.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                </div><!-- /.faq-accordion -->
-                            </div><!-- /.service-details__faq -->
+                            
+
                         </div><!-- /.service-details__content -->
                     </div><!-- /.col-md-12 col-lg-8 -->
                 </div><!-- /.row -->
@@ -171,11 +122,11 @@
                         <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
                         <!-- /.loan-two__form__bg -->
                         <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="15" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
-                            <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
+                            <h3 class="loan-calculator-form__title">OUR LOAN CALCULATOR</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">
-                                    <span>$1000</span>
-                                    <span>$50000</span>
+                                    <span>KSH 1000</span>
+                                    <span>KSH 50000</span>
                                 </div><!-- /.input-box__top -->
                                 <div class="input-box">
                                     <div class="range-slider-count" id="loan-calculator-01-count"></div>
@@ -193,7 +144,7 @@
                                 </div><!-- /.input-box -->
                                 <p>
                                     <span>Pay Monthly</span>
-                                    <b>$<i class="loan-monthly-pay"></i></b>
+                                    <b>KSH <i class="loan-monthly-pay"></i></b>
                                 </p>
                                 <p>
                                     <span>Term of Use</span>
@@ -201,12 +152,13 @@
                                 </p>
                                 <p>
                                     <span>Total Pay Back amount</span>
-                                    <b>$<i class="loan-total"></i></b>
+                                    <b>KSH <i class="loan-total"></i></b>
                                 </p>
-                                <button type="submit" class="easilon-btn loan-calculator-form__btn">
-                                    <span>Apply for loan</span>
-                                    <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
-                                </button><!-- /.easilon -btn -->
+                                <button type="button" class="easilon-btn loan-calculator-form__btn" onclick="window.location.href='apply-loan.php'">
+    <span>Apply for loan</span>
+    <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
+</button>
+<!-- /.easilon -btn -->
                             </div><!-- /.loan-calculator-form__content -->
                         </form><!-- /.loan-calculator-form -->
                     </div><!-- /.loan-two__form -->
