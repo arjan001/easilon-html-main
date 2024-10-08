@@ -48,7 +48,7 @@
                             <div class="footer-widget footer-widget--contact">
                                 <h2 class="footer-widget__title">Get inTouch</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__info">
-                                    <li><a href="https://www.google.com/maps">85 Ketch Harbour Road Bensal PA 19020</a></li>
+                                    <li><a href="https://www.google.com/maps">Nairobi Kenya .. Lavington</a></li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-paper-plane"></i></span>
                                         <a href="mailto:info@smsl.com">info@smsl.com</a>
