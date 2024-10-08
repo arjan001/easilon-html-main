@@ -58,7 +58,7 @@
         tooltips: [
           wNumb({
             decimals: 0,
-            prefix: "$",
+            prefix: "KSH ",
           }),
         ],
         behaviour: "snap",
