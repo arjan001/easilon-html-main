@@ -1481,10 +1481,7 @@
                                                 <i class="fa fa-star"></i>
                                             </span><!-- /.easilon-ratings__icon -->
                                         </div><!-- /.product-ratings -->
-                                        <p class="testimonial-card__quote">I have zero cycles for this first-order
-                                            optimal strategies. Closing these latest prospects is like putting socks on
-                                            an octopus out of scope, for we need evergreen content What's our go to
-                                            market strategy</p><!-- /.testimonial-card__quote -->
+                                        <p class="testimonial-card__quote"> <span>SMSL </span>is by far the best loan company I’ve worked with. I needed a personal loan for some home repairs, and they made the entire process quick and hassle-free. Their interest rates were reasonable, and the online portal made it easy to track my payments. I’m definitely going to use them again if the need arises!</p><!-- /.testimonial-card__quote -->
                                         <div class="testimonial-card__identity">
                                             <h4 class="testimonial-card__name">Alexsia Jorgina</h4>
                                             <!-- /.testimonial-card__name -->

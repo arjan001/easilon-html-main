@@ -51,11 +51,11 @@
                                     <li><a href="https://www.google.com/maps">85 Ketch Harbour Road Bensal PA 19020</a></li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-paper-plane"></i></span>
-                                        <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                                        <a href="mailto:info@smsl.com">info@smsl.com</a>
                                     </li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-telephone"></i></span>
-                                        <a href="tel:+9156980036420">+91 5698 0036 420</a>
+                                        <a href="tel:+9156980036420">075980036420</a>
                                     </li>
                                 </ul><!-- /.list-unstyled -->
                             </div><!-- /.footer-widget -->
