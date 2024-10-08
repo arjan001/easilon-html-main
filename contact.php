@@ -70,7 +70,7 @@
                                         </span><!-- /.contact-one__info__icon -->
                                         <div class="contact-one__info__content">
                                             <h4 class="contact-one__info__title">Mailing Address</h4><!-- /.contact-one__info__title -->
-                                            <a href="https://maps.app.goo.gl/wpr8sgirX4NK6VsU7" class="contact-one__info__text">901 N Pitt Str., Suite <br> 170 Alexandria, USA</a><!-- /.contact-one__info__text -->
+                                            <a href="https://maps.app.goo.gl/wpr8sgirX4NK6VsU7" class="contact-one__info__text">Nairobi kenya, Lavington 086456</a><!-- /.contact-one__info__text -->
                                         </div><!-- /.contact-one__info__content -->
                                     </div><!-- /.contact-one__info__item -->
                                     <div class="contact-one__info__item">
@@ -79,7 +79,7 @@
                                         </span><!-- /.contact-one__info__icon -->
                                         <div class="contact-one__info__content">
                                             <h4 class="contact-one__info__title">Quick Contact</h4><!-- /.contact-one__info__title -->
-                                            <a href="tel:(406)555-0120" class="contact-one__info__text">(406) 555-0120</a><!-- /.contact-one__info__text -->
+                                            <a href="tel:(406)555-0120" class="contact-one__info__text">0712435467</a><!-- /.contact-one__info__text -->
                                         </div><!-- /.contact-one__info__content -->
                                     </div><!-- /.contact-one__info__item -->
                                     <div class="contact-one__info__item">
@@ -88,7 +88,7 @@
                                         </span><!-- /.contact-one__info__icon -->
                                         <div class="contact-one__info__content">
                                             <h4 class="contact-one__info__title">support email</h4><!-- /.contact-one__info__title -->
-                                            <a href="mailto:info@easilon .com" class="contact-one__info__text">admin@smsl.co.ke</a><!-- /.contact-one__info__text -->
+                                            <a href="mailto:info@easilon .com" class="contact-one__info__text">support@smsl.co.ke</a><!-- /.contact-one__info__text -->
                                         </div><!-- /.contact-one__info__content -->
                                     </div><!-- /.contact-one__info__item -->
                                 </div><!-- /.contact-one__info__inner -->
@@ -135,7 +135,7 @@
         <section class="contact-map">
             <div class="container-fluid">
                 <div class="google-map google-map__contact">
-                    <iframe title="template google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="map__contact" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822800752907!2d36.767652573959595!3d-1.2799558987078654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f19f7fd53fbfd%3A0x40b8907600d98711!2sLavington%20Mall!5e0!3m2!1sen!2ske!4v1728392954587!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <!-- /.google-map -->
             </div><!-- /.container-fluid -->
