@@ -36,7 +36,7 @@
                             <div class="footer-widget footer-widget--links footer-widget--links-two">
                                 <h2 class="footer-widget__title">Loan Services</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
-                                    <li><a href="bike-loan.php">bike loan</a></li>
+                                    <!-- <li><a href="bike-loan.php">bike loan</a></li> -->
                                     <li><a href="home-loan.php">home loan</a></li>
                                     <li><a href="study-loan.php">abroad study loan</a></li>
                                     <li><a href="business-loan.php">business loan</a></li>
