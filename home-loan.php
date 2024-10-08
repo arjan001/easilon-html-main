@@ -138,8 +138,8 @@
                             <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">
-                                    <span>$1000</span>
-                                    <span>$50000</span>
+                                    <span>KSH 1000</span>
+                                    <span>KSH 50000</span>
                                 </div><!-- /.input-box__top -->
                                 <div class="input-box">
                                     <div class="range-slider-count" id="loan-calculator-01-count"></div>
@@ -157,7 +157,7 @@
                                 </div><!-- /.input-box -->
                                 <p>
                                     <span>Pay Monthly</span>
-                                    <b>$<i class="loan-monthly-pay"></i></b>
+                                    <b>KSH <i class="loan-monthly-pay"></i></b>
                                 </p>
                                 <p>
                                     <span>Term of Use</span>
@@ -165,7 +165,7 @@
                                 </p>
                                 <p>
                                     <span>Total Pay Back amount</span>
-                                    <b>$<i class="loan-total"></i></b>
+                                    <b>KSH <i class="loan-total"></i></b>
                                 </p>
                                 <button type="submit" class="easilon-btn loan-calculator-form__btn">
                                     <span>Apply for loan</span>
