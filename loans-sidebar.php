@@ -26,7 +26,7 @@
                 <div class="service-sidebar__contact__content">
                     <h4 class="service-sidebar__contact__time">MON-SAT 8:00-9:00</h4><!-- /.service-sidebar__contact__time -->
                     <h4 class="service-sidebar__contact__number">
-                        <a href="tel:+915698036420">+91 569 803 6420</a>
+                        <a href="tel:+915698036420">07123456789</a>
                     </h4><!-- /.service-sidebar__contact__number -->
                 </div><!-- /.service-sidebar__contact__content -->
             </div><!-- /.service-sidebar__contact__inner -->

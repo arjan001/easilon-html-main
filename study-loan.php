@@ -73,12 +73,9 @@
                                     <img src="assets/images/services/service-d-1-5.jpg" alt="study loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">study loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
-                                    variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-                                    injected humour, or randomised words which don't look even slightly believable. If you are going to use a
-                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this
-                                    the first true generator on the Internet. It uses a dictionary of over 200 Latin words,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Dreaming of studying abroad? At SMSL, we understand that pursuing education in another country can open doors to endless opportunities. However, financing that dream can sometimes feel overwhelming. That’s where our Study Abroad Education Loan comes in—to help you achieve your academic goals without the financial stress.
+
+Your Path to Global Learning</p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
                             <div class="service-details__inner-two">

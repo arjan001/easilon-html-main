@@ -74,22 +74,23 @@
                                     <img src="assets/images/services/3.jpg" alt="business loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">business loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
-                                    variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-                                    injected humour, or randomised words which don't look even slightly believable. If you are going to use a
-                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this
-                                    the first true generator on the Internet. It uses a dictionary of over 200 Latin words,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Transform your business vision into reality with SMSL! We know that every entrepreneur faces unique challenges, and our business loans are crafted to empower you with the financial flexibility you need to succeed. Whether you’re launching a startup or expanding an established venture, we’ve got your back!
+
+                                </p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
                             <div class="service-details__inner-two">
-                                <h3 class="service-details__title service-details__inner-two__title">Where can I get some?</h3>
+                                <h3 class="service-details__title service-details__inner-two__title">Why us?</h3>
                                 <!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">mistaken idea of
-                                    denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
-                                    expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No
-                                    one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know
-                                    how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+
+<p>
+    With our business loans, you can access funding for various needs, including:
+
+<li>Start-Up Costs: Get your business off the ground with the capital needed for equipment, inventory, and operational expenses.</li>
+<li>Projects: Whether it’s opening a new location or launching a new product line, our loans provide the support to help you grow.</li> 
+<li>Working Capital: Smooth out cash flow fluctuations, manage payroll, or invest in marketing campaigns with ease</li>
+</p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner-two -->
                             <div class="service-details__info wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
@@ -117,47 +118,7 @@
                             <div class="service-details__faq">
                                 <h3 class="service-details__faq__title service-details__title">Where can I get some?</h3>
                                 <!-- /.service-details__title -->
-                                <div class="faq-accordion easilon -accordion" data-grp-name="easilon -accordion">
-                                    <div class="accordion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What services does your construction company offer?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generatio</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                How do I request a quote for my construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Prior to joining company, she spent 20+ years at Inmosys, where he held a wide range of global leadership roles, from services to products, and across operations and sales. Most recently, he was SVP & Global Head of the Manufacturing busines.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What is the timeline for a construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>You can find him dining late at night with the chefs of the hotels where he stays during his travels across operations and sales. Most recently, he was SVP & Global.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                </div><!-- /.faq-accordion -->
+
                             </div><!-- /.service-details__faq -->
                         </div><!-- /.service-details__content -->
                     </div><!-- /.col-md-12 col-lg-8 -->
@@ -175,8 +136,8 @@
                             <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">
-                                    <span>$1000</span>
-                                    <span>$50000</span>
+                                    <span>KSH 1000</span>
+                                    <span>KSH 50000</span>
                                 </div><!-- /.input-box__top -->
                                 <div class="input-box">
                                     <div class="range-slider-count" id="loan-calculator-01-count"></div>
@@ -194,7 +155,7 @@
                                 </div><!-- /.input-box -->
                                 <p>
                                     <span>Pay Monthly</span>
-                                    <b>$<i class="loan-monthly-pay"></i></b>
+                                    <b>KSH <i class="loan-monthly-pay"></i></b>
                                 </p>
                                 <p>
                                     <span>Term of Use</span>
@@ -202,7 +163,7 @@
                                 </p>
                                 <p>
                                     <span>Total Pay Back amount</span>
-                                    <b>$<i class="loan-total"></i></b>
+                                    <b>KSH <i class="loan-total"></i></b>
                                 </p>
                                 <button type="submit" class="easilon -btn loan-calculator-form__btn">
                                     <span>Apply for loan</span>
