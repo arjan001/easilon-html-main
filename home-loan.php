@@ -75,22 +75,29 @@
                                     <img src="assets/images/services/service-d-1-1.jpg" alt="home loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">home loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
-                                    variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-                                    injected humour, or randomised words which don't look even slightly believable. If you are going to use a
-                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this
-                                    the first true generator on the Internet. It uses a dictionary of over 200 Latin words,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that owning a home is one of the most significant investments you'll ever make, and we are committed to helping you achieve your dream of homeownership with ease and confidence. Our home loans are tailored to meet your needs, offering loan amounts of up to Ksh 300,000 with flexible repayment terms spread over 3 to 12 months. We take pride in providing competitive interest rates, starting at just 5% per month for a 3-month term, 4.5% per month for 6 months, 4% per month for 9 months, and an attractive 3.5% per month for 12 months. Best of all, there are no processing charges or hidden costs, ensuring a straightforward and transparent borrowing experience. With SMSL, you can focus on turning your homeownership dreams into reality without the stress of unexpected expenses,</p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
                             <div class="service-details__inner-two">
                                 <h3 class="service-details__title service-details__inner-two__title">Where can I get some?</h3>
                                 <!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">mistaken idea of
-                                    denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
-                                    expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No
-                                    one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know
-                                    how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+
+<p>At SMSL, securing a loan is a straightforward and convenient process. You can apply for a loan right from the comfort of your home by following these simple steps:</p>
+    <ul>
+<li>Visit Our Website**: Start by navigating to our website where you'll find all the information you need about our loan products.</li>
+
+<li>Select Your Loan Type**: Choose the type of loan that best suits your needs, whether it’s a personal loan, home loan, or any other financial solution.</li>
+
+<li>Complete the Online Application**: Fill out our quick and easy online application form. Make sure to provide accurate information to facilitate the approval process.</li>
+
+<li>Submit Your Application**: Once you’ve completed the form, submit it for review. Our team will process your application swiftly.</li>
+
+<li>Receive Approval**: If approved, you'll receive a confirmation and details about your loan amount and terms.</li>
+
+<li>Access Your Funds**: After approval, the funds will be disbursed to your account, allowing you to use them for your intended purpose.</li>
+
+</ul></p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner-two -->
                             <div class="service-details__info wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
@@ -114,52 +121,7 @@
                                 </ul><!-- /.list-unstyled team-details__list -->
                                 <img src="assets/images/services/service-d-list-1.jpg" alt="service-d-list" class="service-details__info__image">
                             </div><!-- /.service-details__info -->
-                            <p class="service-details__text-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Continually myocardinate holistic mindshare with client-based web services. Assertively e-enable catalysts for change before tested markets. Phosfluorescently maintain wireless scenarios after intermandated applications. Conveniently predominate revolutionary quality vectors through future-proof manufactured products. Enthusiastically transform</p><!-- /.service-details__text-two -->
-                            <div class="service-details__faq">
-                                <h3 class="service-details__faq__title service-details__title">Where can I get some?</h3>
-                                <!-- /.service-details__title -->
-                                <div class="faq-accordion easilon-accordion" data-grp-name="easilon-accordion">
-                                    <div class="accordion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What services does your construction company offer?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generatio</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                How do I request a quote for my construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>Prior to joining company, she spent 20+ years at Inmosys, where he held a wide range of global leadership roles, from services to products, and across operations and sales. Most recently, he was SVP & Global Head of the Manufacturing busines.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                                        <div class="accordion-title">
-                                            <h4>
-                                                What is the timeline for a construction project?
-                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
-                                            </h4>
-                                        </div><!-- /.accordion-title -->
-                                        <div class="accordion-content">
-                                            <div class="inner">
-                                                <p>You can find him dining late at night with the chefs of the hotels where he stays during his travels across operations and sales. Most recently, he was SVP & Global.</p>
-                                            </div><!-- /.inner -->
-                                        </div><!-- /.accordion-content -->
-                                    </div><!-- /.accordion-item -->
-                                </div><!-- /.faq-accordion -->
-                            </div><!-- /.service-details__faq -->
+                            <p class="service-details__text-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Rest assured, SMSL is committed to transparency and customer satisfaction, so you won’t encounter any hidden fees or surprises along the way. If you have any questions or require assistance, our friendly customer support team is always ready to help.</p><!-- /.
                         </div><!-- /.service-details__content -->
                     </div><!-- /.col-md-12 col-lg-8 -->
                 </div><!-- /.row -->
@@ -168,7 +130,7 @@
 
         <section class="loan-two loan-two--service-details section-space">
             <div class="container">
-                <div class="loan-two__inner" style="background-image: url(assets/images/resources/loan-bg-2-1.jpg);">
+                <div class="loan-two__inner" style="background-image: url(assets/images/resources/loan-bg-1-1.jpg);">
                     <div class="loan-two__form">
                         <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
                         <!-- /.loan-two__form__bg -->
