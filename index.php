@@ -314,8 +314,8 @@
                         <div class="about-one__image">
                             <div class="about-one__image__inner">
                                 <img src="assets/images/about/1.jpg" alt="about image">
-                                <img src="assets/images/about/3.jpg" alt="about image" class="
-                        about-one__image__with-border">
+                                <!-- <img src="assets/images/about/3.jpg" alt="about image" class="
+                        about-one__image__with-border"> -->
                                 <img src="assets/images/shapes/about-shape-1-1.png" alt="shapes"
                                     class="about-one__image__shape">
                                 <div class="about-one__experience">
@@ -324,15 +324,8 @@
                                     </div>
                                     <!-- /.about-one__experience__bg -->
                                     <div class="about-one__experience__content">
-                                        <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                            class="video-btn video-popup">
-                                            <i class="icon-play"></i>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </a><!-- /.video-btn -->
-                                        <h3 class="about-one__experience__year">15+</h3>
+                                        
+                                        <h3 class="about-one__experience__year">12+</h3>
                                         <!-- /.about-one__experience__year -->
                                         <h3 class="about-one__experience__title">year of experience</h3>
                                         <!-- /.about-one__experience__title -->
@@ -351,7 +344,7 @@
                                     </div><!-- /.sec-title__shape -->
                                     <h6 class="sec-title__tagline">welcome to SMSL loans</h6><!-- /.sec-title__tagline -->
                                 </div><!-- /.sec-title__top -->
-                                <h3 class="sec-title__title">Our Loans will Fill Your <br> Dreams Come True</h3>
+                                <h3 class="sec-title__title">SEEKING FINANCIAL LOAN SERVICES  SEE OUR OFFERINGS</h3>
                                 <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="about-one__text-box wow fadeInUp" data-wow-duration="1500ms">
