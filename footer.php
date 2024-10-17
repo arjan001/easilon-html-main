@@ -27,8 +27,9 @@
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="services.php">Our Services</a></li>
                                     <!-- <li><a href="team.php">Meet the Team</a></li> -->
-                                    <li><a href="history.php">Our History</a></li>
+                                    
                                     <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="apply-loan.php">APPLY</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-xl-2 col-lg-3 col-md-3 col-sm-6 -->
