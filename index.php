@@ -260,7 +260,7 @@
                                 <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                                 <div class="loan-calculator-form__content">
                                     <div class="input-box__top">
-                                        <span>KSH 1000</span>
+                                        <span>KSH 5000</span>
                                         <span>KSH 300000</span>
                                     </div><!-- /.input-box__top -->
                                     <div class="input-box">
