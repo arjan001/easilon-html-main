@@ -52,7 +52,7 @@
                                     <li><a href="https://www.google.com/maps">Nairobi Kenya .. Lavington</a></li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-paper-plane"></i></span>
-                                        <a href="mailto:info@smsl.com">info@smsl.com</a>
+                                        <a href="mailto:info@smsl.com">info@smsl.co.ke</a>
                                     </li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-telephone"></i></span>

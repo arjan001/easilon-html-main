@@ -6,7 +6,7 @@
                             <span class="topbar__info__icon">
                                 <i class="icon-mail-1"></i>
                             </span>
-                            <a href="mailto:needhelp@company.com">admin@smsl.co.ke</a>
+                            <a href="mailto:needhelp@company.com">info@smsl.co.ke</a>
                         </li>
                         <li>
                             <span class="topbar__info__icon topbar__info__icon--phone">
