@@ -829,32 +829,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="Anthony B. Castillo">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Anthony B. Castillo</a></h3>
                                     <!-- /.team-card__name -->
@@ -883,32 +858,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="Sarah Albert">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Sarah Albert</a></h3>
                                     <!-- /.team-card__name -->
@@ -937,32 +887,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="Adolfo Carone">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Adolfo Carone</a></h3>
                                     <!-- /.team-card__name -->
@@ -991,32 +916,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="kevin martin">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">kevin martin</a></h3>
                                     <!-- /.team-card__name -->
@@ -1045,32 +945,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="Kendra Mcgee">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Kendra Mcgee</a></h3>
                                     <!-- /.team-card__name -->
@@ -1099,32 +974,7 @@
                                 <img src="assets/images/team/PLACEHOLDER.jpg" alt="Sabrina Melton">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
-                                <div class="social-links-two">
-                                    <a href="https://facebook.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Facebook</span>
-                                    </a>
-                                    <a href="https://twitter.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-twitter" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Twitter</span>
-                                    </a>
-                                    <a href="https://instagram.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Instagram</span>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <span class="social-links-two__icon">
-                                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                                        </span><!-- /.social-links-two__icon -->
-                                        <span class="sr-only">Youtube</span>
-                                    </a>
-                                </div><!-- /.social-links-two -->
+                                
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Sabrina Melton</a></h3>
                                     <!-- /.team-card__name -->
