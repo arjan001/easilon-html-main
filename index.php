@@ -826,7 +826,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-1.jpg" alt="Anthony B. Castillo">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="Anthony B. Castillo">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -880,7 +880,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-2.jpg" alt="Sarah Albert">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="Sarah Albert">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -934,7 +934,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='400ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-3.jpg" alt="Adolfo Carone">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="Adolfo Carone">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -988,7 +988,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='00ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-4.jpg" alt="kevin martin">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="kevin martin">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -1042,7 +1042,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-5.jpg" alt="Kendra Mcgee">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="Kendra Mcgee">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
@@ -1096,7 +1096,7 @@
                     <div class="item">
                         <div class="team-card wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='400ms'>
                             <a href="team-details.php" class="team-card__image">
-                                <img src="assets/images/team/team-1-6.jpg" alt="Sabrina Melton">
+                                <img src="assets/images/team/PLACEHOLDER.jpg" alt="Sabrina Melton">
                             </a><!-- /.team-card__image-->
                             <div class="team-card__hover">
                                 <div class="social-links-two">
