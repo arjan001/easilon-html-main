@@ -136,7 +136,7 @@
                     <div class="loan-two__form">
                         <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
                         <!-- /.loan-two__form__bg -->
-                        <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="15" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
+                        <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="20" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
                             <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">

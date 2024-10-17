@@ -72,22 +72,14 @@
                                 <div class="service-details__thumbnail wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                     <img src="assets/images/services/school2.jpeg" alt="study loan">
                                 </div><!-- /.service-details__thumbnail -->
-                                <h3 class="service-details__title">study loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Dreaming of studying abroad? At SMSL, we understand that pursuing education in another country can open doors to endless opportunities. However, financing that dream can sometimes feel overwhelming. That’s where our Study Abroad Education Loan comes in—to help you achieve your academic goals without the financial stress.
+                                <h3 class="service-details__title">Educational loan</h3><!-- /.service-details__title -->
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that managing your education expenses can be challenging, especially when you're short on cash for your high school or university fees. That’s where our Study Loan comes in. Whether you're facing a temporary financial shortfall or need help covering the cost of tuition, SMSL is here to support you. We offer flexible loans to help you manage your education expenses without the stress. Let us be your trusted financial partner in ensuring you continue your studies smoothly.
+                                    <br>
 
-Your Path to Global Learning</p>
+Your Path to Academic Success, Made Easy</p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
-                            <div class="service-details__inner-two">
-                                <h3 class="service-details__title service-details__inner-two__title">Where can I get some?</h3>
-                                <!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">mistaken idea of
-                                    denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
-                                    expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No
-                                    one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know
-                                    how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
-                                <!-- /.service-details__text -->
-                            </div><!-- /.service-details__inner-two -->
+
                             <div class="service-details__info wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                 <ul class="list-unstyled service-details__list">
                                     <li>
@@ -109,50 +101,115 @@ Your Path to Global Learning</p>
                                 </ul><!-- /.list-unstyled team-details__list -->
                                 <img src="assets/images/services/service-d-list-1.jpg" alt="service-d-list" class="service-details__info__image">
                             </div><!-- /.service-details__info -->
-                            <p class="service-details__text-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Continually myocardinate holistic mindshare with client-based web services. Assertively e-enable catalysts for change before tested markets. Phosfluorescently maintain wireless scenarios after intermandated applications. Conveniently predominate revolutionary quality vectors through future-proof manufactured products. Enthusiastically transform</p><!-- /.service-details__text-two -->
+                            <p class="service-details__text-two wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Our Study Loan is designed to provide the extra cash you need to keep education on track. Just give us a call, and let the loan process begin. With flexible repayment plans and fast approval, SMSL ensures that financial constraints won’t stop you or your loved ones from pursuing education</p><!-- /.service-details__text-two -->
                             <div class="service-details__faq">
-                                <h3 class="service-details__faq__title service-details__title">Where can I get some?</h3>
+                                <h3 class="service-details__faq__title service-details__title">Need to learn more ?</h3>
                                 <!-- /.service-details__title -->
                                 <div class="faq-accordion easilon -accordion" data-grp-name="easilon -accordion">
                                     <div class="accordion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                         <div class="accordion-title">
                                             <h4>
-                                                What services does your construction company offer?
+                                            What types of loans are available?
                                                 <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                             </h4>
                                         </div><!-- /.accordion-title -->
                                         <div class="accordion-content">
                                             <div class="inner">
-                                                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generatio</p>
+                                                <p><ul>
+    <li><strong>Personal Loans</strong>: Designed to help individuals manage unexpected expenses or financial emergencies.</li>
+    <li><strong>Working Capital Loans</strong>: Provides essential funding to support small business operations and maintain cash flow.</li>
+    <li><strong>Emergency Loans</strong>: Fast approvals to address immediate financial needs, ensuring you have access to funds when you need them most.</li>
+    <li><strong>Education Loans</strong>: Financial support for students facing challenges in paying their school fees, with flexible repayment options to ease the burden.</li>
+</ul>
+
+</p>
                                             </div><!-- /.inner -->
                                         </div><!-- /.accordion-content -->
                                     </div><!-- /.accordion-item -->
                                     <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
                                         <div class="accordion-title">
                                             <h4>
-                                                How do I request a quote for my construction project?
+                                            What is the loan application process like?
                                                 <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                             </h4>
                                         </div><!-- /.accordion-title -->
                                         <div class="accordion-content">
                                             <div class="inner">
-                                                <p>Prior to joining company, she spent 20+ years at Inmosys, where he held a wide range of global leadership roles, from services to products, and across operations and sales. Most recently, he was SVP & Global Head of the Manufacturing busines.</p>
+                                                <p>The loan application process at SMSL is quick and easy. Simply fill out an online application form, provide the required documents, and our team will review and approve eligible applications within minutes.</p>
                                             </div><!-- /.inner -->
                                         </div><!-- /.accordion-content -->
                                     </div><!-- /.accordion-item -->
                                     <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                                         <div class="accordion-title">
                                             <h4>
-                                                What is the timeline for a construction project?
+                                                WHAT ARE THE INTEREST RATE ON THE LOANSt?
                                                 <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                             </h4>
                                         </div><!-- /.accordion-title -->
                                         <div class="accordion-content">
                                             <div class="inner">
-                                                <p>You can find him dining late at night with the chefs of the hotels where he stays during his travels across operations and sales. Most recently, he was SVP & Global.</p>
+                                                <p>Our interest rates are competitive at 20% and vary depending on the type of loan and repayment period. We prioritize transparency, so you'll know the exact rate before accepting any loan offer.</p>
                                             </div><!-- /.inner -->
                                         </div><!-- /.accordion-content -->
                                     </div><!-- /.accordion-item -->
+
+                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                                        <div class="accordion-title">
+                                            <h4>
+                                               What is the maximum loan amount I can borrow?
+                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
+                                            </h4>
+                                        </div><!-- /.accordion-title -->
+                                        <div class="accordion-content">
+                                            <div class="inner">
+                                                <p>The loan amount you are eligible for depends on your financial profile and the type of loan you are applying for. Our loans typically range from1000  to 300,000, depending on your needs.</p>
+                                            </div><!-- /.inner -->
+                                        </div><!-- /.accordion-content -->
+                                    </div><!-- /.accordion-item -->
+
+
+                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                                        <div class="accordion-title">
+                                            <h4>
+                                               Is there a minimum credit score required to apply??
+                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
+                                            </h4>
+                                        </div><!-- /.accordion-title -->
+                                        <div class="accordion-content">
+                                            <div class="inner">
+                                                <p>At SMSL, we believe in giving everyone access to financial solutions. While a good credit score can help with loan approval, we assess each application individually and offer loans based on your current financial situation, not just your credit score.</p>
+                                            </div><!-- /.inner -->
+                                        </div><!-- /.accordion-content -->
+                                    </div><!-- /.accordion-item -->
+
+                                    <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                                        <div class="accordion-title">
+                                            <h4>
+                                               What documents are required for a loan application?
+                                                <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
+                                            </h4>
+                                        </div><!-- /.accordion-title -->
+                                        <div class="accordion-content">
+                                            <div class="inner">
+                                            <ul>
+    <li><strong>A valid ID or passport</strong>: Essential for verifying your identity.</li>
+    <li><strong>Proof of income or employment</strong>: Required to assess your financial stability.</li>
+    <li><strong>Bank statements for the last 3 months</strong>: Helps in understanding your financial activity.</li>
+    <li><strong>Next of kin information</strong>: Necessary for emergency contact and loan processing.</li>
+    <li><strong>Mpesa transaction statement</strong>: Provides insight into your transaction history.</li>
+    <li><strong>6 months bank statement</strong>: For a comprehensive review of your financial situation.</li>
+    <li><strong>KRA PIN</strong>: Required for tax identification purposes.</li>
+    <li><strong>Employment letter</strong>: Confirms your current employment status and income.</li>
+    <li><strong>Any other documents depending on the type of loan</strong>: Additional documentation may be required based on the specific loan.</li>
+</ul>
+
+                                            </div><!-- /.inner -->
+                                        </div><!-- /.accordion-content -->
+                                    </div><!-- /.accordion-item -->
+
+
+
+
                                 </div><!-- /.faq-accordion -->
                             </div><!-- /.service-details__faq -->
                         </div><!-- /.service-details__content -->
@@ -167,12 +224,12 @@ Your Path to Global Learning</p>
                     <div class="loan-two__form">
                         <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
                         <!-- /.loan-two__form__bg -->
-                        <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="15" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
+                        <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="20" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
                             <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">
-                                    <span>$1000</span>
-                                    <span>$50000</span>
+                                    <span>KSH 10000</span>
+                                    <span>KSH 300000</span>
                                 </div><!-- /.input-box__top -->
                                 <div class="input-box">
                                     <div class="range-slider-count" id="loan-calculator-01-count"></div>
@@ -190,7 +247,7 @@ Your Path to Global Learning</p>
                                 </div><!-- /.input-box -->
                                 <p>
                                     <span>Pay Monthly</span>
-                                    <b>$<i class="loan-monthly-pay"></i></b>
+                                    <b>KSH<i class="loan-monthly-pay"></i></b>
                                 </p>
                                 <p>
                                     <span>Term of Use</span>
@@ -198,7 +255,7 @@ Your Path to Global Learning</p>
                                 </p>
                                 <p>
                                     <span>Total Pay Back amount</span>
-                                    <b>$<i class="loan-total"></i></b>
+                                    <b>KSH<i class="loan-total"></i></b>
                                 </p>
                                 <button type="submit" class="easilon -btn loan-calculator-form__btn">
                                     <span>Apply for loan</span>

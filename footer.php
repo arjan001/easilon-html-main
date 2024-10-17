@@ -26,7 +26,8 @@
                                 <ul class="list-unstyled footer-widget__links">
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="services.php">Our Services</a></li>
-                                    <!-- <li><a href="team.php">Meet the Team</a></li> -->
+                                    <li><a href="faq.php">Frequent Asked Questions</a></li>
+                                     
                                     
                                     <li><a href="contact.php">Contact</a></li>
                                     <li><a href="apply-loan.php">APPLY</a></li>

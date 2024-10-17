@@ -12660,7 +12660,7 @@ var spinner = $.widget( "ui.spinner", {
 		if ( incremental ) {
 			return $.isFunction( incremental ) ?
 				incremental( i ) :
-				Math.floor( i * i * i / 50000 - i * i / 500 + 17 * i / 200 + 1 );
+				Math.floor( i * i * i / 300000 - i * i / 500 + 17 * i / 200 + 1 );
 		}
 
 		return 1;

@@ -92,63 +92,64 @@
                                     </div><!-- /.accordion-title -->
                                     <div class="accordion-content">
                                         <div class="inner">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                                        <ul>
+    <li><strong>Personal Loans</strong>: Designed to help individuals manage unexpected expenses or financial emergencies.</li>
+    <li><strong>Working Capital Loans</strong>: Provides essential funding to support small business operations and maintain cash flow.</li>
+    <li><strong>Emergency Loans</strong>: Fast approvals to address immediate financial needs, ensuring you have access to funds when you need them most.</li>
+    <li><strong>Education Loans</strong>: Financial support for students facing challenges in paying their school fees, with flexible repayment options to ease the burden.</li>
+</ul>
                                         </div><!-- /.inner -->
                                     </div><!-- /.accordion-content -->
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
                                     <div class="accordion-title">
                                         <h4>
-                                            What is the difference between secured
+                                        What is the loan application process like?
                                             <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                         </h4>
                                     </div><!-- /.accordion-title -->
                                     <div class="accordion-content">
                                         <div class="inner">
-                                            <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+                                            <p>The loan application process at SMSL is quick and easy. Simply fill out an online application form, provide the required documents, and our team will review and approve eligible applications within minutes..</p>
                                         </div><!-- /.inner -->
                                     </div><!-- /.accordion-content -->
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                                     <div class="accordion-title">
                                         <h4>
-                                            How is loan eligibility determined?
+                                        WHAT ARE THE INTEREST RATE ON THE LOANSt?
                                             <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                         </h4>
                                     </div><!-- /.accordion-title -->
                                     <div class="accordion-content">
                                         <div class="inner">
-                                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At
-                                                the
-                                                end of the day, going forward, a new normal that has evolved from generation X
-                                                is on
-                                                the</p>
+                                            <p>Our interest rates are competitive at 20% and vary depending on the type of loan and repayment period. We prioritize transparency, so you'll know the exact rate before accepting any loan offer</p>
                                         </div><!-- /.inner -->
                                     </div><!-- /.accordion-content -->
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="150ms">
                                     <div class="accordion-title">
                                         <h4>
-                                            What is the interest rate on a loan?
+                                        What is the maximum loan amount I can borrow?
                                             <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                         </h4>
                                     </div><!-- /.accordion-title -->
                                     <div class="accordion-content">
                                         <div class="inner">
-                                            <p>Prior to joining company, she spent 20+ years at Inmosys, where he held a wide range of global leadership roles, from services to products, and across operations and sales. Most recently, he was SVP & Global Head of the Manufacturing busines.</p>
+                                            <p>The loan amount you are eligible for depends on your financial profile and the type of loan you are applying for. Our loans typically range from1000  to 300,000, depending on your needs.</p>
                                         </div><!-- /.inner -->
                                     </div><!-- /.accordion-content -->
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
                                     <div class="accordion-title">
                                         <h4>
-                                            How does the loan application process work?
+                                        Is there a minimum credit score required to apply??
                                             <span class="accordion-title__icon"></span><!-- /.accordion-title__icon -->
                                         </h4>
                                     </div><!-- /.accordion-title -->
                                     <div class="accordion-content">
                                         <div class="inner">
-                                            <p>You can find him dining late at night with the chefs of the hotels where he stays during his travels across operations and sales. Most recently, he was SVP & Global.</p>
+                                            <p>At SMSL, we believe in giving everyone access to financial solutions. While a good credit score can help with loan approval, we assess each application individually and offer loans based on your current financial situation, not just your credit score</p>
                                         </div><!-- /.inner -->
                                     </div><!-- /.accordion-content -->
                                 </div><!-- /.accordion-item -->

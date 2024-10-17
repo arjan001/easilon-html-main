@@ -260,7 +260,7 @@
                                 <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                                 <div class="loan-calculator-form__content">
                                     <div class="input-box__top">
-                                        <span>KSH 10000</span>
+                                        <span>KSH 1000</span>
                                         <span>KSH 300000</span>
                                     </div><!-- /.input-box__top -->
                                     <div class="input-box">
@@ -349,7 +349,7 @@
                                         <div class="sec-title__shape__one"></div><!-- /.sec-title__shape__one -->
                                         <div class="sec-title__shape__two"></div><!-- /.sec-title__shape__one -->
                                     </div><!-- /.sec-title__shape -->
-                                    <h6 class="sec-title__tagline">welcome to easilon</h6><!-- /.sec-title__tagline -->
+                                    <h6 class="sec-title__tagline">welcome to SMSL loans</h6><!-- /.sec-title__tagline -->
                                 </div><!-- /.sec-title__top -->
                                 <h3 class="sec-title__title">Our Loans will Fill Your <br> Dreams Come True</h3>
                                 <!-- /.sec-title__title -->

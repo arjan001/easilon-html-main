@@ -53,7 +53,7 @@
       });
 
       noUiSlider.create(countRange, {
-        start: 10000,
+        start: 1000,
         step: 5000,
         tooltips: [
           wNumb({
@@ -64,7 +64,7 @@
         behaviour: "snap",
         connect: [true, false],
         range: {
-          min: 10000,
+          min: 1000,
           max: 300000,
         },
         direction: direction

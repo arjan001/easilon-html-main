@@ -22,9 +22,9 @@
                     <i class="icon-telephone"></i>
                 </div><!-- /.service-sidebar__contact__icon -->
                 <div class="service-sidebar__contact__content">
-                    <h4 class="service-sidebar__contact__time">MON-SAT 8:00-9:00</h4><!-- /.service-sidebar__contact__time -->
+                    <h4 class="service-sidebar__contact__time">MON-SUN 8:00-9:00</h4><!-- /.service-sidebar__contact__time -->
                     <h4 class="service-sidebar__contact__number">
-                        <a href="tel:+915698036420">07123456789</a>
+                        <a href="tel:+915698036420">+254 722 703235</a>
                     </h4><!-- /.service-sidebar__contact__number -->
                 </div><!-- /.service-sidebar__contact__content -->
             </div><!-- /.service-sidebar__contact__inner -->
