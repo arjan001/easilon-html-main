@@ -831,9 +831,9 @@
                             <div class="team-card__hover">
                                 
                                 <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">Anthony B. Castillo</a></h3>
+                                    <h3 class="team-card__name"><a href="team-details.php">STAFF 1</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
@@ -860,9 +860,9 @@
                             <div class="team-card__hover">
                                 
                                 <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">Sarah Albert</a></h3>
+                                    <h3 class="team-card__name"><a href="team-details.php">STAFF 2</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
@@ -889,9 +889,9 @@
                             <div class="team-card__hover">
                                 
                                 <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">Adolfo Carone</a></h3>
+                                    <h3 class="team-card__name"><a href="team-details.php">STAFF 3</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
@@ -918,9 +918,9 @@
                             <div class="team-card__hover">
                                 
                                 <div class="team-card__identity">
-                                    <h3 class="team-card__name"><a href="team-details.php">kevin martin</a></h3>
+                                    <h3 class="team-card__name"><a href="team-details.php">STAFF 4</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
@@ -949,7 +949,7 @@
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Kendra Mcgee</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->
@@ -978,7 +978,7 @@
                                 <div class="team-card__identity">
                                     <h3 class="team-card__name"><a href="team-details.php">Sabrina Melton</a></h3>
                                     <!-- /.team-card__name -->
-                                    <p class="team-card__designation">marketing manager</p>
+                                    <p class="team-card__designation">Loan Officer</p>
                                     <!-- /.team-card__designation -->
                                 </div><!-- /.team-card__identity -->
                                 <div class="team-card__overlay"></div><!-- /.team-card__overlay -->

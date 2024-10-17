@@ -415,7 +415,7 @@
                         <div class="team-details__top">
                             <div class="team-details__identity">
                                 <h4 class="team-details__name">kevin martin</h4><!-- /.team-details__name -->
-                                <p class="team-details__designation">marketing manager</p>
+                                <p class="team-details__designation">Loan Officer</p>
                                 <!-- /.team-details__designation -->
                             </div><!-- /.team-details__identity -->
                             <div class="team-details__social">
