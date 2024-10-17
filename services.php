@@ -77,7 +77,7 @@
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
                                 <h3 class="service-card__title"><a href="working-capital.php">Working Capital</a></h3><!-- /.service-card__title -->
-                                <a href="auto-loan.php" class="service-card__btn easilon-btn">
+                                <a href="working-capital.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
                             </div><!-- /.service-card__content -->
