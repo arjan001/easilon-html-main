@@ -72,22 +72,33 @@
                                     <img src="assets/images/services/service-d-1-2.jpg" alt="auto loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">WORKING CAPITAL</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
-                                    variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-                                    injected humour, or randomised words which don't look even slightly believable. If you are going to use a
-                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this
-                                    the first true generator on the Internet. It uses a dictionary of over 200 Latin words,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that having access to reliable working capital is essential for the success and growth of your business. Our Working Capital solutions are designed to help businesses maintain smooth operations, manage cash flow, and seize new opportunities without the stress of financial constraints.</p>
+<br/>
+<br/>
+
+                                <p>Whether you need funding to purchase inventory, pay employees, or cover operational expenses, SMSL provides flexible short-term loan options tailored to meet your business needs. We offer quick and seamless application processes, competitive interest rates, and repayment plans that work with your cash flow cycle.
+                                </p>
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
                             <div class="service-details__inner-two">
-                                <h3 class="service-details__title service-details__inner-two__title">Where can I get some?</h3>
+                                <h3 class="service-details__title service-details__inner-two__title">WHY CHOOSE OUR WORKING CAPITAL</h3>
                                 <!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">mistaken idea of
-                                    denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
-                                    expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No
-                                    one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know
-                                    how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+<UL>
+    <li>
+    Quick Funding: Access to funds quickly, often within 24 hours.
+    </li>
+    <li>
+    Flexible Loan Terms: Customizable loan amounts and repayment periods to suit your business model.
+    </li>
+    <li>
+    Competitive Interest Rates: Transparent and affordable rates that ensure your business can grow without unnecessary financial strain.
+    </li>
+    <li>
+    Support for All Business Sizes: Whether you run a small startup or a large enterprise, our working capital solutions are adaptable to any scale.
+    </li>
+</UL>
+
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner-two -->
                             <div class="service-details__info wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">

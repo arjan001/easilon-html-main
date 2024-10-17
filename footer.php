@@ -39,8 +39,9 @@
                                     <!-- <li><a href="bike-loan.php">bike loan</a></li> -->
                                     
                                     <li><a href="study-loan.php">Education Finance</a></li>
-                                    <li><a href="business-loan.php">Working Capital</a></li>
+                                    <li><a href="working-capital.php">Working Capital</a></li>
                                     <li><a href="personal-loan.php">personal loan</a></li>
+                                    <li><a href="emergency-loan.php">emergency Loan</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-xl-3 col-lg-3 col-md-4 col-sm-6 -->
