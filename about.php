@@ -271,7 +271,7 @@
                             <div class="loan-reasons-one__card__content">
                                 <h3 class="loan-reasons-one__card__title">Consolidate your debt</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">Simply call us or click the apply button, and let SMSL simplify your finances. With one easy payment and flexible terms, managing your debt has never been more straightforward!</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Simply call us or click the apply button, and let SMSL simplify your finances. With one easy payment and terms, </p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
@@ -280,9 +280,9 @@
                             <div class="loan-reasons-one__card__bg" style="background-image: url(assets/images/shapes/loan-reasons-card-bg-1-1.png);"></div>
                             <!-- /.loan-reasons-one__card__bg -->
                             <div class="loan-reasons-one__card__content">
-                                <h3 class="loan-reasons-one__card__title">Home improvement</h3>
+                                <h3 class="loan-reasons-one__card__title">Educational Finance</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">Planning a home improvement? Call us or click the apply button, and SMSL will provide the funds you need to transform your space. Fast, flexible loans to make your dream home</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Planning to Graduate? Call us or click the apply button, and SMSL will provide the funds you need to transform your Career and Future. </p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->

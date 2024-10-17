@@ -63,7 +63,7 @@
                                 <img src="assets/images/services/3.jpg" alt="personal loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="personal-loan.php">personal loan</a></h3><!-- /.service-card__title -->
+                                <h3 class="service-card__title"><a href="personal-loan.php">EMERGENCY LOAN</a></h3><!-- /.service-card__title -->
                                 <a href="personal-loan.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
@@ -76,7 +76,7 @@
                                 <img src="assets/images/services/6.avif" alt="auto loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="auto-loan.php">auto loan</a></h3><!-- /.service-card__title -->
+                                <h3 class="service-card__title"><a href="working-capital.php">Working Capital</a></h3><!-- /.service-card__title -->
                                 <a href="auto-loan.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
@@ -89,8 +89,10 @@
                                 <img src="assets/images/services/4.jpg" alt="home loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="home-loan.php">home loan</a></h3><!-- /.service-card__title -->
-                                <a href="home-loan.php" class="service-card__btn easilon-btn">
+
+                                <h3 class="service-card__title"><a href="emmergency-loan.php">Emergency Loan</a></h3><!-- /.service-card__title -->
+
+                                <a href="emmergency-loan.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
                             </div><!-- /.service-card__content -->
@@ -102,7 +104,7 @@
                                 <img src="assets/images/services/2.jpg" alt="study loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="study-loan.php">study loan</a></h3><!-- /.service-card__title -->
+                                <h3 class="service-card__title"><a href="study-loan.php">Edudation Finance</a></h3><!-- /.service-card__title -->
                                 <a href="study-loan.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
@@ -110,17 +112,7 @@
                         </div><!-- /.service-card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                        <div class="service-card">
-                            <a href="business-loan.php" class="service-card__image">
-                                <img src="assets/images/services/service-2-5.jpg" alt="business loan">
-                            </a><!-- /.service-card__image -->
-                            <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="business-loan.php">business loan</a></h3><!-- /.service-card__title -->
-                                <a href="business-loan.php" class="service-card__btn easilon-btn">
-                                    <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
-                                </a><!-- /.service-card__btn -->
-                            </div><!-- /.service-card__content -->
-                        </div><!-- /.service-card -->
+
                     </div><!-- /.col-lg-4 col-md-6 -->
                    
                 </div><!-- /.row -->
