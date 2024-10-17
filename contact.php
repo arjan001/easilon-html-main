@@ -79,7 +79,7 @@
                                         </span><!-- /.contact-one__info__icon -->
                                         <div class="contact-one__info__content">
                                             <h4 class="contact-one__info__title">Quick Contact</h4><!-- /.contact-one__info__title -->
-                                            <a href="tel:(406)555-0120" class="contact-one__info__text">0712435467</a><!-- /.contact-one__info__text -->
+                                            <a href="tel:+254 722 703235" class="contact-one__info__text">+254 722 703235</a><!-- /.contact-one__info__text -->
                                         </div><!-- /.contact-one__info__content -->
                                     </div><!-- /.contact-one__info__item -->
                                     <div class="contact-one__info__item">
@@ -88,7 +88,7 @@
                                         </span><!-- /.contact-one__info__icon -->
                                         <div class="contact-one__info__content">
                                             <h4 class="contact-one__info__title">support email</h4><!-- /.contact-one__info__title -->
-                                            <a href="mailto:info@easilon .com" class="contact-one__info__text">support@smsl.co.ke</a><!-- /.contact-one__info__text -->
+                                            <a href="mailto:info@easilon .com" class="contact-one__info__text">info@smsl.co.ke</a><!-- /.contact-one__info__text -->
                                         </div><!-- /.contact-one__info__content -->
                                     </div><!-- /.contact-one__info__item -->
                                 </div><!-- /.contact-one__info__inner -->
@@ -110,12 +110,12 @@
                                         <label class="sr-only" for="select-subject">Select Subject</label>
                                         <select class="selectpicker" id="select-subject" aria-label="Subject line">
                                             <option selected>Select Subject</option>
-                                            <option value="1">home loan</option>
-                                            <option value="2">personal loan</option>
-                                            <option value="3">business loan</option>
-                                            <option value="4">study loan</option>
+                                            <option value="1">Personal Loan</option>
+                                            <option value="2">emergency Loan</option>
+                                            <option value="3">Education Finace</option>
+                                            <option value="4">Working capital</option>
                                             
-                                            <option value="6">property loan</option>
+                                           
                                         </select>
                                     </div><!-- /.form-one__control__select -->
                                 </div><!-- /.form-one__control form-one__control--full -->
