@@ -755,7 +755,7 @@
                                 <div class="company-transparency-one__call__content">
                                     <p class="company-transparency-one__call__title">call us any time</p>
                                     <a href="tel:+163-2654-3654"
-                                        class="company-transparency-one__call__number">0712345678</a>
+                                        class="company-transparency-one__call__number">+254 722 703235</a>
                                 </div><!-- /.company-transparency-one__call__content -->
                             </div><!-- /.company-transparency-one__call -->
                         </div><!-- /.company-transparency-one__content -->

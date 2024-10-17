@@ -132,7 +132,7 @@
 
         <section class="loan-two loan-two--service-details section-space">
             <div class="container">
-                <div class="loan-two__inner" style="background-image: url(assets/images/resources/loan-bg-2-1.jpg);">
+                <div class="loan-two__inner" style="background-image: url(assets/images/team/2.jpg);">
                     <div class="loan-two__form">
                         <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
                         <!-- /.loan-two__form__bg -->
