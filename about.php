@@ -65,21 +65,22 @@
                         <div class="about-one__image">
                             <div class="about-one__image__inner">
                                 <img src="assets/images/about/1.jpg" alt="about image">
-                                <img src="assets/images/about/about-2-2.jpg" alt="about image" class="
-						about-one__image__with-border">
+                                <!-- <img src="assets/images/about/about-2-2.jpg" alt="about image" class="
+						about-one__image__with-border"> -->
                                 <img src="assets/images/shapes/about-shape-1-1.png" alt="shapes" class="about-one__image__shape">
                                 <div class="about-one__experience">
                                     <div class="about-one__experience__bg" style="background-image: url(assets/images/shapes/about-experience-bg-1-1.png);"></div>
                                     <!-- /.about-one__experience__bg -->
                                     <div class="about-one__experience__content">
-                                        <a href="#" class="video-btn video-popup">
+                                        <!-- <a href="#" class="video-btn video-popup">
                                             <i class="icon-play"></i>
                                             <span></span>
                                             <span></span>
                                             <span></span>
                                             <span></span>
-                                        </a><!-- /.video-btn -->
-                                        <h3 class="about-one__experience__year">15+</h3><!-- /.about-one__experience__year -->
+                                        </a> -->
+                                        <!-- /.video-btn -->
+                                        <h3 class="about-one__experience__year">12+</h3><!-- /.about-one__experience__year -->
                                         <h3 class="about-one__experience__title">year of experience</h3>
                                         <!-- /.about-one__experience__title -->
                                     </div><!-- /.about-one__experience__content -->
@@ -224,7 +225,7 @@
             <div class="container">
                 <div class="loan-reasons-one__row row gutter-y-30">
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="loan-reasons-one__image" style="background-image: url(assets/images/resources/loan-reasons-1-1.jpg);"></div>
+                        <div class="loan-reasons-one__image" style="background-image: url(assets/images/resources/new.jpeg);"></div>
                         <!-- /.loan-reasons-one__image -->
                     </div><!-- /.col-xl-8 col-lg-7 col-md-6 -->
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInRight" data-wow-duration="1500ms">
