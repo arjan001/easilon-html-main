@@ -42,7 +42,7 @@
                     <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>our services</span></li>
-                        <li><span>personal loan</span></li>
+                        <li><span>Emergency loan</span></li>
                     </ul><!-- /.thm-breadcrumb list-unstyled -->
                 </div><!-- /.page-header__content -->
             </div><!-- /.container -->
@@ -74,6 +74,8 @@
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">Emergency loan</h3><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we know that emergencies can happen when you least expect them, leaving you in need of immediate financial assistance. Our Emergency Loan service is designed to provide you with fast and flexible access to funds when you need them the most, whether it’s for unexpected medical expenses, urgent repairs, or any other unforeseen situation.</p>
+                                <br>
+                                <br>
 
 
 

@@ -85,7 +85,7 @@
                     </div><!-- /.col-lg-4 col-md-6 -->
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
                         <div class="service-card">
-                            <a href="home-loan.php" class="service-card__image">
+                            <a href="emergency-loan.php" class="service-card__image">
                                 <img src="assets/images/services/4.jpg" alt="home loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">

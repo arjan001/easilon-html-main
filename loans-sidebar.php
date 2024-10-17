@@ -6,6 +6,8 @@
             
             <li><a href="working-capital.php">Working Capital <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
             <li><a href="personal-loan.php">personal loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
+
+            <li><a href="emergency-loan.php">Emergency Loan<span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
             
             <li><a href="study-loan.php">study loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
         </ul><!-- /.list-unstyled service-sidebar__nav -->
