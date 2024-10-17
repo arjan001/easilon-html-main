@@ -545,7 +545,7 @@
                             <div class="sec-title__shape__two"></div><!-- /.sec-title__shape__one -->
                         </div><!-- /.sec-title__shape -->
                     </div><!-- /.sec-title__top -->
-                    <h3 class="sec-title__title">our awesome team</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title">The taem at SMSL</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
                 <div class="team-one__carousel easilon-owl__carousel easilon-owl__carousel--basic-nav owl-carousel owl-theme"
                     data-owl-options='{

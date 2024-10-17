@@ -1202,9 +1202,9 @@
                                         </div><!-- /.product-ratings -->
                                         <p class="testimonial-card__quote">“I needed a quick loan to cover some emergency medical expenses, and <span>SMSL </span> came through for me. The application process was so smooth and fast—I had the money in my account the same day! Their customer service was really helpful in explaining everything, and the repayment terms were super flexible. Highly recommend!</p><!-- /.testimonial-card__quote -->
                                         <div class="testimonial-card__identity">
-                                            <h4 class="testimonial-card__name">Michael G. Ware</h4>
+                                            <h4 class="testimonial-card__name">Michael Were</h4>
                                             <!-- /.testimonial-card__name -->
-                                            <p class="testimonial-card__designation">managing director</p>
+                                            <p class="testimonial-card__designation">smsl client</p>
                                             <!-- /.testimonial-card__designation -->
                                         </div><!-- /.testimonial-card__identity -->
                                     </div><!-- /.testimonial-card -->
@@ -1241,9 +1241,9 @@
                                         </div><!-- /.product-ratings -->
                                         <p class="testimonial-card__quote">As a small business owner, cash flow can be unpredictable, and SMSL’s short-term business loans have been a lifesaver. I’ve used them twice now, and each time, the approval was lightning-fast, with minimal paperwork. It’s great to work with a company that understands the needs of small businesses</p><!-- /.testimonial-card__quote -->
                                         <div class="testimonial-card__identity">
-                                            <h4 class="testimonial-card__name">Judith White</h4>
+                                            <h4 class="testimonial-card__name">Judith Kipyegon</h4>
                                             <!-- /.testimonial-card__name -->
-                                            <p class="testimonial-card__designation">managing director</p>
+                                            <p class="testimonial-card__designation">smsl Client</p>
                                             <!-- /.testimonial-card__designation -->
                                         </div><!-- /.testimonial-card__identity -->
                                     </div><!-- /.testimonial-card -->
@@ -1280,9 +1280,9 @@
                                         </div><!-- /.product-ratings -->
                                         <p class="testimonial-card__quote"> I was hesitant at first about taking out a loan, but SMSL made the process transparent and straightforward. The flexible repayment options made it easy to manage, and there were no hidden fees. I was also pleasantly surprised that I could pay off my loan early without penalties. Highly satisfied with the service!</p><!-- /.testimonial-card__quote -->
                                         <div class="testimonial-card__identity">
-                                            <h4 class="testimonial-card__name">Mike Hardson</h4>
+                                            <h4 class="testimonial-card__name">Mike kinyanjui</h4>
                                             <!-- /.testimonial-card__name -->
-                                            <p class="testimonial-card__designation">managing director</p>
+                                            <p class="testimonial-card__designation">smsl client</p>
                                             <!-- /.testimonial-card__designation -->
                                         </div><!-- /.testimonial-card__identity -->
                                     </div><!-- /.testimonial-card -->
@@ -1339,16 +1339,16 @@
                         "arrows": false
                     }'>
                                 <div>
-                                    <img src="assets/images/testimonials/testimonial-1-1.jpg" alt="slider-thumbs">
+                                    <img src="assets/images/testimonials/testimonial.avif" alt="slider-thumbs">
                                 </div>
                                 <div>
-                                    <img src="assets/images/testimonials/testimonial-1-2.jpg" alt="slider-thumbs">
+                                    <img src="assets/images/testimonials/testimonial.avif" alt="slider-thumbs">
                                 </div>
                                 <div>
-                                    <img src="assets/images/testimonials/testimonial-1-3.jpg" alt="slider-thumbs">
+                                    <img src="assets/images/testimonials/testimonial.avif" alt="slider-thumbs">
                                 </div>
                                 <div>
-                                    <img src="assets/images/testimonials/testimonial-1-4.jpg" alt="slider-thumbs">
+                                    <img src="assets/images/testimonials/testimonial.avif" alt="slider-thumbs">
                                 </div>
                             </div><!-- /.testimonials-one__carousel-thumbs -->
                         </div><!-- /.testimonials-one__slider -->
