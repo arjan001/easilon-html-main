@@ -12,7 +12,7 @@
                             <span class="topbar__info__icon topbar__info__icon--phone">
                                 <i class="icon-headset"></i>
                             </span>
-                            <a href="tel:07123456789">+254 722 703235</a>
+                            <a href="tel:+254 722 703235">+254 722 703235</a>
                         </li>
                     </ul><!-- /.list-unstyled topbar__info -->
                     <div class="topbar__right">

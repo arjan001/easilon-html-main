@@ -56,7 +56,7 @@
                                     </li>
                                     <li>
                                         <span class="footer-widget__info__icon"><i class="icon-telephone"></i></span>
-                                        <a href="tel:+9156980036420">+254 722 703235</a>
+                                        <a href="tel:++254 722 703235">+254 722 703235</a>
                                     </li>
                                 </ul><!-- /.list-unstyled -->
                             </div><!-- /.footer-widget -->
