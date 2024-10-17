@@ -574,7 +574,7 @@
                             <div class="sec-title__shape__two"></div><!-- /.sec-title__shape__one -->
                         </div><!-- /.sec-title__shape -->
                     </div><!-- /.sec-title__top -->
-                    <h3 class="sec-title__title">our working process</h3><!-- /.sec-title__title -->
+                    <h3 class="sec-title__title">our Lending  process</h3><!-- /.sec-title__title -->
                 </div><!-- /.sec-title -->
                 <div class="row gutter-y-30">
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="1500ms"
