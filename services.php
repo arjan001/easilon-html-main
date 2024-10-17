@@ -63,7 +63,7 @@
                                 <img src="assets/images/services/3.jpg" alt="personal loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
-                                <h3 class="service-card__title"><a href="personal-loan.php">EMERGENCY LOAN</a></h3><!-- /.service-card__title -->
+                                <h3 class="service-card__title"><a href="personal-loan.php">Personal Loan</a></h3><!-- /.service-card__title -->
                                 <a href="personal-loan.php" class="service-card__btn easilon-btn">
                                     <span class="easilon-btn__icon"><i class="icon-right-arrow"></i></span>
                                 </a><!-- /.service-card__btn -->
