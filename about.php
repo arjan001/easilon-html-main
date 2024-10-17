@@ -406,7 +406,7 @@
                                         <div class="testimonial-card-two__inner">
                                             <div class="testimonial-card-two__top">
                                                 <div class="testimonial-card-two__image">
-                                                    <img src="assets/images/testimonials/testimonial-2-1.jpg" alt="Michael G. Ware">
+                                                    <img src="assets/images/testimonials/testimonial.avif" alt="Michael G. Ware">
                                                 </div><!-- /.testimonial-card-two__image -->
                                                 <svg class="testimonial-card-two__icon" viewBox="0 0 56 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M0 25.4448H11.1378L3.71254 40.2951H14.8503L22.2756 25.4448V3.16919H0V25.4448Z" />
@@ -418,7 +418,7 @@
                                             <p class="testimonial-card-two__quote">SMSL is by far the best loan company I’ve worked with. I needed a personal loan for some home repairs, and they made the entire process quick and hassle-free. Their interest rates were reasonable, and the online portal made it easy to track my payments. I’m definitely going to use them again if the need arises!</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
-                                                    <h4 class="testimonial-card-two__name">Michael G. Ware</h4><!-- /.testimonial-card-two__name -->
+                                                    <h4 class="testimonial-card-two__name">Michael  Were</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
@@ -447,7 +447,7 @@
                                         <div class="testimonial-card-two__inner">
                                             <div class="testimonial-card-two__top">
                                                 <div class="testimonial-card-two__image">
-                                                    <img src="assets/images/testimonials/testimonial-2-2.jpg" alt="Mike Hardson">
+                                                    <img src="assets/images/testimonials/testimonial.avif" alt="Mike Hardson">
                                                 </div><!-- /.testimonial-card-two__image -->
                                                 <svg class="testimonial-card-two__icon" viewBox="0 0 56 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M0 25.4448H11.1378L3.71254 40.2951H14.8503L22.2756 25.4448V3.16919H0V25.4448Z" />
@@ -459,7 +459,7 @@
                                             <p class="testimonial-card-two__quote">I was hesitant at first about taking out a loan, but SMSL made the process transparent and straightforward. The flexible repayment options made it easy to manage, and there were no hidden fees. I was also pleasantly surprised that I could pay off my loan early without penalties. Highly satisfied with the service!”</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
-                                                    <h4 class="testimonial-card-two__name">Mike Hardson</h4><!-- /.testimonial-card-two__name -->
+                                                    <h4 class="testimonial-card-two__name">Mike Kinyanjui</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
@@ -488,7 +488,7 @@
                                         <div class="testimonial-card-two__inner">
                                             <div class="testimonial-card-two__top">
                                                 <div class="testimonial-card-two__image">
-                                                    <img src="assets/images/testimonials/testimonial-2-3.jpg" alt="Judith White">
+                                                    <img src="assets/images/testimonials/testimonial.avif" alt="Judith White">
                                                 </div><!-- /.testimonial-card-two__image -->
                                                 <svg class="testimonial-card-two__icon" viewBox="0 0 56 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M0 25.4448H11.1378L3.71254 40.2951H14.8503L22.2756 25.4448V3.16919H0V25.4448Z" />
@@ -500,7 +500,7 @@
                                             <p class="testimonial-card-two__quote">As a small business owner, cash flow can be unpredictable, and SMSL’s short-term business loans have been a lifesaver. I’ve used them twice now, and each time, the approval was lightning-fast, with minimal paperwork. It’s great to work with a company that understands the needs of small businesses</p><!-- /.testimonial-card-two__quote -->
                                             <div class="testimonial-card-two__bottom">
                                                 <div class="testimonial-card-two__identity">
-                                                    <h4 class="testimonial-card-two__name">Judith White</h4><!-- /.testimonial-card-two__name -->
+                                                    <h4 class="testimonial-card-two__name">Judith Kipyegon</h4><!-- /.testimonial-card-two__name -->
                                                     <p class="testimonial-card-two__designation">SMSL CLIENT</p><!-- /.testimonial-card-two__designation -->
                                                 </div><!-- /.testimonial-card-two__identity -->
                                                 <div class="easilon-ratings">
