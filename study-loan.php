@@ -220,15 +220,17 @@ Your Path to Academic Success, Made Easy</p>
 
         <section class="loan-two loan-two--service-details section-space">
             <div class="container">
-                <div class="loan-two__inner" style="background-image: url(assets/images/resources/loan-bg-2-1.jpg);">
+                <div class="loan-two__inner" style="background-image: url(assets/images/team/2.jpg);">
                     <div class="loan-two__form">
-                        <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);"></div>
+                        <div class="loan-two__form__bg" style="background-image: url(assets/images/shapes/loan-calculator-form-bg-1-1.png);">
+                            
+                        </div>
                         <!-- /.loan-two__form__bg -->
                         <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="20" class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
                             <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                             <div class="loan-calculator-form__content">
                                 <div class="input-box__top">
-                                    <span>KSH 10000</span>
+                                    <span>KSH 1000</span>
                                     <span>KSH 300000</span>
                                 </div><!-- /.input-box__top -->
                                 <div class="input-box">
