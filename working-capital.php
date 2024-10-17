@@ -69,7 +69,7 @@
                         <div class="service-details__content">
                             <div class="service-details__inner">
                                 <div class="service-details__thumbnail wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                                    <img src="assets/images/services/service-d-1-2.jpg" alt="auto loan">
+                                    <img src="assets/images/services/working capital.webp" alt="auto loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">WORKING CAPITAL</h3><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that having access to reliable working capital is essential for the success and growth of your business. Our Working Capital solutions are designed to help businesses maintain smooth operations, manage cash flow, and seize new opportunities without the stress of financial constraints.</p>

@@ -70,10 +70,11 @@
                         <div class="service-details__content">
                             <div class="service-details__inner">
                                 <div class="service-details__thumbnail wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                                    <img src="assets/images/services/3.jpg" alt="personal loan">
+                                    <img src="assets/images/services/personal.jpg" alt="personal loan">
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">personal loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that life can be unpredictable, and sometimes you need a little extra financial support to navigate those challenges. Our personal loans are designed to provide you with the flexibility and convenience you need, whether it's for unexpected expenses, home improvements, or personal projects,</p>
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">Life can be unpredictable, and when you need extra financial support, SMSL is here for you. Our personal loans offer the flexibility you need for unexpected expenses, home improvements, or personal projects. Experience convenience and peace of mind with SMSL</p>
+<br/>
 <br/>
                                 <ul>
                                     <li>Quick and Easy Application: Our online application process is straightforward and user-friendly, allowing you to apply for a personal loan from the comfort of your home. Get approved in just a few hours!</li>
