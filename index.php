@@ -523,11 +523,10 @@
                                     </div><!-- /.sec-title__shape -->
                                     <h6 class="sec-title__tagline">our features</h6><!-- /.sec-title__tagline -->
                                 </div><!-- /.sec-title__top -->
-                                <h3 class="sec-title__title">Quick Easy Flexible</h3><!-- /.sec-title__title -->
+                                <h3 class="sec-title__title">Quick Easy  & Flexible</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="features-one__text-box">
-                                <p class="features-one__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                    sed do eiusmod tempor incididunt ut labore et dolore</p>
+                                <p class="features-one__text">Our Servicess set us apart by offering quick approvals, flexible repayment plans, and personalized loan solutions. With competitive interest rates and a dedicated support team, we make the lending process smooth and stress-free, ensuring you get the financial help you need when you need it most.</p>
                                 <!-- /.features-one__text -->
                             </div><!-- /.features-one__text-box -->
                             <div class="features-one__features">
@@ -538,8 +537,7 @@
                                     <div class="features-one__features__content">
                                         <h3 class="features-one__features__title">lower rates</h3>
                                         <!-- /.features-one__features__title -->
-                                        <p class="features-one__features__text">Can we align on lunch orders those
-                                            options are already baked in with this model face time</p>
+                                        <p class="features-one__features__text">We pride ourselves on providing some of the most competitive interest rates in the market. Our lower rates mean you save more over the life of your loan, making it easier to manage your finances while achieving your goals.</p>
                                         <!-- /.features-one__features__text -->
                                     </div><!-- /.features-one__features__content -->
                                 </div><!-- /.features-one__features__item -->
@@ -548,10 +546,9 @@
                                         <i class=" icon-loan-1"></i>
                                     </span><!-- /.features-one__features__icon -->
                                     <div class="features-one__features__content">
-                                        <h3 class="features-one__features__title">quick and easy</h3>
+                                        <h3 class="features-one__features__title">quick and easy Application Process</h3>
                                         <!-- /.features-one__features__title -->
-                                        <p class="features-one__features__text">Ramp up high-level, and we need a
-                                            paradigm shift reach out, data-point, nor wheelhouse</p>
+                                        <p class="features-one__features__text">Our streamlined application process allows you to apply for a loan in minutes. With minimal paperwork and fast approvals, you can get the financial support you need without the hassle</p>
                                         <!-- /.features-one__features__text -->
                                     </div><!-- /.features-one__features__content -->
                                 </div><!-- /.features-one__features__item -->
