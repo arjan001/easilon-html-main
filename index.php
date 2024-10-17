@@ -1411,68 +1411,8 @@
 
 
 
-        <div class="client-carousel @@extraClassName">
-            <div class="container">
-                <div class="client-carousel__one easilon-owl__carousel owl-theme owl-carousel" data-owl-options='{
-            "items": 5,
-            "margin": 65,
-            "smartSpeed": 700,
-            "loop":true,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":false,
-            "navText": ["<span class=\"icon-arrow-left\"></span>","<span class=\"icon-arrow-right\"></span>"],
-            "responsive":{
-                "0":{
-                    "items": 2,
-                    "margin": 50
-                },
-                "500":{
-                    "items": 3,
-                    "margin": 60
-                },
-                "768":{
-                    "items": 4,
-                    "margin": 70
-                },
-                "992":{
-                    "items": 5,
-                    "margin": 60
-                },
-                "1200":{
-                    "items": 5,
-                    "margin": 180
-                }
-            }
-            }'>
-                    <div class="client-carousel__one__item">
-                        <img src="assets/images/brand/brand-1-1.png" alt="easilon" class="client-carousel__one__image">
-                        <img src="assets/images/brand/brand-1-1-hover.png" alt="easilon"
-                            class="client-carousel__one__hover-image">
-                    </div><!-- /.owl-slide-item-->
-                    <div class="client-carousel__one__item">
-                        <img src="assets/images/brand/brand-1-2.png" alt="easilon" class="client-carousel__one__image">
-                        <img src="assets/images/brand/brand-1-2-hover.png" alt="easilon"
-                            class="client-carousel__one__hover-image">
-                    </div><!-- /.owl-slide-item-->
-                    <div class="client-carousel__one__item">
-                        <img src="assets/images/brand/brand-1-3.png" alt="easilon" class="client-carousel__one__image">
-                        <img src="assets/images/brand/brand-1-3-hover.png" alt="easilon"
-                            class="client-carousel__one__hover-image">
-                    </div><!-- /.owl-slide-item-->
-                    <div class="client-carousel__one__item">
-                        <img src="assets/images/brand/brand-1-4.png" alt="easilon" class="client-carousel__one__image">
-                        <img src="assets/images/brand/brand-1-4-hover.png" alt="easilon"
-                            class="client-carousel__one__hover-image">
-                    </div><!-- /.owl-slide-item-->
-                    <div class="client-carousel__one__item">
-                        <img src="assets/images/brand/brand-1-5.png" alt="easilon" class="client-carousel__one__image">
-                        <img src="assets/images/brand/brand-1-5-hover.png" alt="easilon"
-                            class="client-carousel__one__hover-image">
-                    </div><!-- /.owl-slide-item-->
-                </div><!-- /.thm-owl__slider -->
-            </div><!-- /.container -->
-        </div><!-- /.client-carousel -->
+  
+        <!-- /.client-carousel -->
 
         <section class="quick-loan-one">
             <div class="container">
