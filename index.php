@@ -348,7 +348,7 @@
                                 <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="about-one__text-box wow fadeInUp" data-wow-duration="1500ms">
-                                <p class="about-one__text">At SMSL, we pride ourselves on being one of the best lending companies in Kenya, dedicated to providing tailored financial solutions to meet your needs. With flexible loan terms and a competitive interest rate of just 20%, we strive to make borrowing simple and accessible. Our diverse range of loan products ensures that you can find the right option, whether you need support for education, personal expenses, or business growth. Let us help you achieve your financial goals with our quick and hassle-free application process. Experience the SMSL difference today!</p><!-- /.about-one__text -->
+                                <p class="about-one__text">At SMSL, we pride ourselves on being one of the best lending companies in Kenya, dedicated to providing tailored financial solutions to meet your needs. With flexible loan terms and a competitive interest rate , we strive to make borrowing simple and accessible. Our diverse range of loan products ensures that you can find the right option, whether you need support for education, personal expenses, or business growth. Let us help you achieve your financial goals with our quick and hassle-free application process. Experience the SMSL difference today!</p><!-- /.about-one__text -->
                             </div><!-- /.about-one__text-box -->
                             <div class="about-one__list">
                                 <div class="about-one__list__left wow fadeInUp" data-wow-duration="1500ms"
