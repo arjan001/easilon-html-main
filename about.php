@@ -258,9 +258,9 @@
                             <div class="loan-reasons-one__card__bg" style="background-image: url(assets/images/shapes/loan-reasons-card-bg-1-1.png);"></div>
                             <!-- /.loan-reasons-one__card__bg -->
                             <div class="loan-reasons-one__card__content">
-                                <h3 class="loan-reasons-one__card__title">Need a new car?</h3>
+                                <h3 class="loan-reasons-one__card__title">Need an Emmergency Loan?</h3>
                                 <!-- /.loan-reasons-one__card__title -->
-                                <p class="loan-reasons-one__card__text">Just give us a call or click the apply button, and let SMSL help make your dream car a reality. Fast approvals, flexible terms—getting your new ride has never been easier!</p><!-- /.loan-reasons-one__card__text -->
+                                <p class="loan-reasons-one__card__text">Just give us a call or click the apply button, and let SMSL help you fix that emmergency </p><!-- /.loan-reasons-one__card__text -->
                             </div><!-- /.loan-reasons-one__card__content -->
                         </div><!-- /.loan-reasons-one__card -->
                     </div><!-- /.col-lg-4 col-md-6 -->
