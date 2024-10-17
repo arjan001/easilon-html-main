@@ -376,13 +376,13 @@
                                         <span class="about-one__list__icon">
                                             <i class="icon-check-mark"></i>
                                         </span><!-- /.about-one__list__icon -->
-                                        small business loan
+                                        Emergency Loan
                                     </div>
                                     <div class="about-one__list__item">
                                         <span class="about-one__list__icon">
                                             <i class="icon-check-mark"></i>
                                         </span><!-- /.about-one__list__icon -->
-                                        studying abroad loan
+                                        Educational Finance
                                     </div>
                                 </div><!-- /.about-one__list__right -->
                             </div><!-- /.about-one__list -->
