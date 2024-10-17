@@ -74,7 +74,7 @@
                                 </div><!-- /.service-details__thumbnail -->
                                 <h3 class="service-details__title">personal loan</h3><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that life can be unpredictable, and sometimes you need a little extra financial support to navigate those challenges. Our personal loans are designed to provide you with the flexibility and convenience you need, whether it's for unexpected expenses, home improvements, or personal projects,</p>
-
+<br/>
                                 <ul>
                                     <li>Quick and Easy Application: Our online application process is straightforward and user-friendly, allowing you to apply for a personal loan from the comfort of your home. Get approved in just a few hours!</li>
                                     <li>Flexible Loan Amounts: We offer a range of loan amounts to suit your needs, whether you require a small sum for a minor expense or a larger amount for significant projects.</li>

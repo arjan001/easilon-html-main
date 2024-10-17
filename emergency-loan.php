@@ -72,17 +72,27 @@
                                 <div class="service-details__thumbnail wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                     <img src="assets/images/services/3.jpg" alt="personal loan">
                                 </div><!-- /.service-details__thumbnail -->
-                                <h3 class="service-details__title">personal loan</h3><!-- /.service-details__title -->
-                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we understand that life can be unpredictable, and sometimes you need a little extra financial support to navigate those challenges. Our personal loans are designed to provide you with the flexibility and convenience you need, whether it's for unexpected expenses, home improvements, or personal projects,</p>
+                                <h3 class="service-details__title">Emergency loan</h3><!-- /.service-details__title -->
+                                <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">At SMSL, we know that emergencies can happen when you least expect them, leaving you in need of immediate financial assistance. Our Emergency Loan service is designed to provide you with fast and flexible access to funds when you need them the most, whether it’s for unexpected medical expenses, urgent repairs, or any other unforeseen situation.</p>
 
-                                <ul>
-                                    <li>Quick and Easy Application: Our online application process is straightforward and user-friendly, allowing you to apply for a personal loan from the comfort of your home. Get approved in just a few hours!</li>
-                                    <li>Flexible Loan Amounts: We offer a range of loan amounts to suit your needs, whether you require a small sum for a minor expense or a larger amount for significant projects.</li>
-                                    <li>Competitive Interest Rates: SMSL is committed to transparency and fairness. We provide competitive interest rates with no hidden fees, ensuring you know exactly what to expect.</li>
-                                    <li>Customizable Repayment Plans: We believe in making your financial life easier. Choose from various repayment options tailored to fit your budget, so you can repay your loan comfortably.</li>
-                                    <li>Dedicated Customer Support: Our friendly team is here to assist you at every step. Whether you have questions about the application process or need help managing your loan, we are just a call away.</li>
-                                </ul>
-                                <p>Let SMSL help you take control of your finances and turn your plans into reality with a personal loan that meets your needs. Apply now and experience the difference!</p>
+
+
+<ul> 
+    
+<li>Fast and Simple Application:** Our online application process is designed to get you the funds quickly. Apply from anywhere, and get approval in just a few hours to cover your urgent expenses without delay.</li> 
+
+<li>Immediate Funds:** Receive your emergency loan funds directly into your account as soon as possible, so you can handle the crisis without financial worry.</li> 
+
+<li>Flexible Loan Options:** Whether you need a small amount to get through a tough week or a larger sum to manage a significant emergency, we offer a range of loan options to suit your immediate needs.</li> 
+
+<li>Competitive Rates with No Hidden Fees:** We provide transparent, competitive interest rates with no surprise charges, ensuring you can focus on resolving your emergency, not hidden costs.</li> 
+
+<li>Convenient Repayment Plans:** Our repayment plans are designed to fit your budget, allowing you to manage your emergency loan comfortably without added stress.</li> 
+
+<li>24/7 Customer Support:** Our team is here to help you every step of the way. Whether it’s assistance with your loan application or managing repayment, we’re just a call away, day or night.</li>
+ </ul>
+ <br />
+Let SMSL be your trusted partner during emergencies, providing you with the financial relief you need, exactly when you need it. Apply today and get immediate access to the funds that will help you handle life’s unexpected moments.
                                 <!-- /.service-details__text -->
                             </div><!-- /.service-details__inner -->
 
