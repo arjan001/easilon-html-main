@@ -261,7 +261,7 @@
                                 <div class="loan-calculator-form__content">
                                     <div class="input-box__top">
                                         <span>KSH 1000</span>
-                                        <span>KSH 50000</span>
+                                        <span>KSH 300000</span>
                                     </div><!-- /.input-box__top -->
                                     <div class="input-box">
                                         <div class="range-slider-count" id="loan-calculator-01-count"></div>
@@ -429,15 +429,11 @@
                 </div><!-- /.sec-title -->
             </div><!-- /.container -->
             <div class="services-one__slide">
-                <h2 class="services-one__slide__text services-one__slide__text--one">home loan</h2>
-                <!-- /.services-one__slide__text -->
-                <span class="services-one__slide__icon"><i class="icon-graduation"></i></span>
+                
                 <!-- /.services-one__slide__icon -->
-                <h2 class="services-one__slide__text services-one__slide__text--two">education</h2>
+                <h2 class="services-one__slide__text services-one__slide__text--two">Educational Finance</h2>
                 <!-- /.services-one__slide__text -->
-                <span class="services-one__slide__icon"><i
-                        class="icon-car"></i></span><!-- /.services-one__slide__icon -->
-                <h2 class="services-one__slide__text services-one__slide__text--one">auto loan</h2>
+                <
                 <!-- /.services-one__slide__text -->
                 <span class="services-one__slide__icon"><i class="icon-graduation"></i></span>
                 <!-- /.services-one__slide__icon -->
@@ -445,14 +441,10 @@
                 <!-- /.services-one__slide__text -->
                 <span class="services-one__slide__icon"><i
                         class="icon-car"></i></span><!-- /.services-one__slide__icon -->
-                <h2 class="services-one__slide__text services-one__slide__text--one">business loan</h2>
+                <h2 class="services-one__slide__text services-one__slide__text--one">Working capital loan</h2>
                 <!-- /.services-one__slide__text -->
                 <span class="services-one__slide__icon"><i class="icon-graduation"></i></span>
-                <!-- /.services-one__slide__icon -->
-                <h2 class="services-one__slide__text services-one__slide__text--two">bike loan</h2>
-                <!-- /.services-one__slide__text -->
-                <span class="services-one__slide__icon"><i
-                        class="icon-car"></i></span><!-- /.services-one__slide__icon -->
+                
             </div>
             <div class="container">
                 <div class="services-one__main-tab-box tabs-box">
@@ -461,8 +453,8 @@
                         <ul class="tab-buttons">
                             <li data-tab="#auto-loan" class="tab-btn active-btn">
                                 <div class="tab-btn__inner">
-                                    auto loan
-                                    <a href="auto-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
+                                    Working Capital
+                                    <a href="working-capital.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
                             <li data-tab="#personal-loan" class="tab-btn">
@@ -471,15 +463,9 @@
                                     <a href="personal-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>
-                            <li data-tab="#home-loan" class="tab-btn">
-                                <div class="tab-btn__inner">
-                                    buy home loan
-                                    <a href="home-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
-                                </div>
-                            </li>
                             <li data-tab="#study-loan" class="tab-btn">
                                 <div class="tab-btn__inner">
-                                    study abroad loan
+                                   Education Finance
                                     <a href="study-loan.php" class="tab-btn__icon"><i class="icon-next"></i></a>
                                 </div>
                             </li>

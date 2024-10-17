@@ -53,8 +53,8 @@
       });
 
       noUiSlider.create(countRange, {
-        start: 25000,
-        step: 1000,
+        start: 100000,
+        step: 5000,
         tooltips: [
           wNumb({
             decimals: 0,
@@ -65,7 +65,7 @@
         connect: [true, false],
         range: {
           min: 1000,
-          max: 50000,
+          max: 300000,
         },
         direction: direction
       });
@@ -133,28 +133,7 @@
     });
   }
 
-  /*-- Checkout Accoradin --*/
-  if ($(".checkout-page__payment__title").length) {
-    $(".checkout-page__payment__item")
-      .find(".checkout-page__payment__content")
-      .hide();
-    $(".checkout-page__payment__item--active")
-      .find(".checkout-page__payment__content")
-      .show();
-    $(".checkout-page__payment__title").on("click", function (e) {
-      e.preventDefault();
-      $(this)
-        .parents(".checkout-page__payment")
-        .find(".checkout-page__payment__item")
-        .removeClass("checkout-page__payment__item--active");
-      $(this)
-        .parents(".checkout-page__payment")
-        .find(".checkout-page__payment__content")
-        .slideUp();
-      $(this).parent().addClass("checkout-page__payment__item--active");
-      $(this).parent().find(".checkout-page__payment__content").slideDown();
-    });
-  }
+
 
   let dynamicyearElm = $(".dynamic-year");
   if (dynamicyearElm.length) {
