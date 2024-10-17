@@ -1,6 +1,7 @@
 <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>smsl kenya |smsl loans  || FINACIAL LOANS|| LOANS</title>
+    <title>SMSL loans | Best Loan Services in Kenya | SMSL - Personal, Business, and Emergency Loans</title>
+
     <!-- favicons Icons --> 
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
