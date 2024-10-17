@@ -37,9 +37,9 @@
                                 <h2 class="footer-widget__title">Loan Services</h2><!-- /.footer-widget__title -->
                                 <ul class="list-unstyled footer-widget__links">
                                     <!-- <li><a href="bike-loan.php">bike loan</a></li> -->
-                                    <li><a href="home-loan.php">home loan</a></li>
-                                    <li><a href="study-loan.php">abroad study loan</a></li>
-                                    <li><a href="business-loan.php">business loan</a></li>
+                                    
+                                    <li><a href="study-loan.php">Education Finance</a></li>
+                                    <li><a href="business-loan.php">Working Capital</a></li>
                                     <li><a href="personal-loan.php">personal loan</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->

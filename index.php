@@ -255,7 +255,7 @@
                 <div class="main-slider-one__form-wrapper__inner">
                     <div class="container">
                         <div class="main-slider-one__form">
-                            <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="15"
+                            <form action="#" id="loan-calculator-01" data-form-direction="ltr" data-interest-rate="20"
                                 class="loan-calculator-form wow fadeInUp" data-wow-duration="1500ms">
                                 <h3 class="loan-calculator-form__title">How Much Do You Need?</h3>
                                 <div class="loan-calculator-form__content">
@@ -1577,13 +1577,13 @@
                                         <div class="sec-title__shape__one"></div><!-- /.sec-title__shape__one -->
                                         <div class="sec-title__shape__two"></div><!-- /.sec-title__shape__one -->
                                     </div><!-- /.sec-title__shape -->
-                                    <h6 class="sec-title__tagline">download our app</h6><!-- /.sec-title__tagline -->
+                                    <!-- <h6 class="sec-title__tagline">download our app</h6> -->
                                 </div><!-- /.sec-title__top -->
-                                <h3 class="sec-title__title">start your loan <br> application with smartly</h3>
+                                <!-- <h3 class="sec-title__title">start your loan <br> application with smartly</h3> -->
                                 <!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
                             <div class="download-app-one__text-box wow fadeInUp" data-wow-duration="1500ms">
-                                <p class="download-app-one__text">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                <p class="download-app-one__text">Lorem ipsumzz dolor sit amet, consectetur adipisicing
                                     elit, sed do eiusmod tempor incididunt ut labore et dolore Lorem ipsum</p>
                                 <!-- /.download-app-one__text -->
                             </div><!-- /.download-app-one__text-box -->

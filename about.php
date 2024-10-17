@@ -128,7 +128,7 @@
                                         <span class="about-one__list__icon">
                                             <i class="icon-check-mark"></i>
                                         </span><!-- /.about-one__list__icon -->
-                                        studying abroad loan
+                                        small loans
                                     </div>
                                 </div><!-- /.about-one__list__right -->
                             </div><!-- /.about-one__list -->
@@ -178,24 +178,24 @@
                                 <div class="why-choose-one__progress__box progress-box">
                                     <h4 class="progress-box__title">loan process</h4>
                                     <div class="progress-box__bar">
-                                        <div class="progress-box__bar__inner count-bar" data-percent="85%">
-                                            <div class="progress-box__number count-text">85%</div>
+                                        <div class="progress-box__bar__inner count-bar" data-percent="100%">
+                                            <div class="progress-box__number count-text">100%</div>
                                         </div>
                                     </div>
                                 </div><!-- /.skills-item -->
                                 <div class="why-choose-one__progress__box progress-box">
-                                    <h4 class="progress-box__title">business consultancy</h4>
+                                    <h4 class="progress-box__title">business support</h4>
                                     <div class="progress-box__bar">
-                                        <div class="progress-box__bar__inner count-bar" data-percent="95%">
-                                            <div class="progress-box__number count-text">95%</div>
+                                        <div class="progress-box__bar__inner count-bar" data-percent="100%">
+                                            <div class="progress-box__number count-text">100%</div>
                                         </div>
                                     </div>
                                 </div><!-- /.skills-item -->
                                 <div class="why-choose-one__progress__box progress-box">
                                     <h4 class="progress-box__title">payments benefits</h4>
                                     <div class="progress-box__bar">
-                                        <div class="progress-box__bar__inner count-bar" data-percent="90%">
-                                            <div class="progress-box__number count-text">90%</div>
+                                        <div class="progress-box__bar__inner count-bar" data-percent="100%">
+                                            <div class="progress-box__number count-text">100%</div>
                                         </div>
                                     </div>
                                 </div><!-- /.skills-item -->
