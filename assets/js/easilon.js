@@ -1,6 +1,9 @@
 (function ($) {
   "use strict";
 
+
+
+  
   // toggle password
   $(".toggle-password").on("click", function () {
     $(this).toggleClass("fa-eye fa-eye-slash");

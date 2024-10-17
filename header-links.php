@@ -29,6 +29,9 @@
 
 
 
+<link rel="canonical" href="https://smsl.co.ke/" />
+
+
 
 
     <!-- fonts -->
@@ -53,3 +56,24 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/easilon.css" />
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FinancialService",
+  "name": "SMSL - Best Loan Services in Kenya",
+  "url": "https://smsl.co.ke",
+  "logo": "https://smsl.co.ke/assets/images/loader.png",
+  "description": "SMSL offers affordable and flexible loan products including personal, emergency, business, and education loans in Kenya.",
+  "telephone": "+254700123456",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "lavington",
+    "addressLocality": "Nairobi",
+    "addressRegion": "Nairobi",
+    "postalCode": "00100",
+    "addressCountry": "KE"
+  }
+}
+</script>
+    

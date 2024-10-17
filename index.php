@@ -1441,6 +1441,10 @@
             </div><!-- /.container -->
         </section><!-- /.quick-loan-one -->
 
+
+
+
+
         <!-- footer code will be here -->
 
         <?php include 'footer.php'; ?>
