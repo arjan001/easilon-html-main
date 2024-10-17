@@ -73,7 +73,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                         <div class="service-card">
                             <a href="auto-loan.php" class="service-card__image">
-                                <img src="assets/images/services/6.avif" alt="auto loan">
+                                <img src="assets/images/services/working.webp" alt="auto loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
                                 <h3 class="service-card__title"><a href="working-capital.php">Working Capital</a></h3><!-- /.service-card__title -->
@@ -86,7 +86,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
                         <div class="service-card">
                             <a href="emergency-loan.php" class="service-card__image">
-                                <img src="assets/images/services/4.jpg" alt="home loan">
+                                <img src="assets/images/services/emergency.png" alt="home loan">
                             </a><!-- /.service-card__image -->
                             <div class="service-card__content">
 
