@@ -38,7 +38,7 @@
             <!-- /.page-header__bg -->
             <div class="container">
                 <div class="page-header__content">
-                    <h2 class="page-header__title">auto loan</h2>
+                    <h2 class="page-header__title">Working capital</h2>
                     <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>our services</span></li>
@@ -71,7 +71,7 @@
                                 <div class="service-details__thumbnail wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                     <img src="assets/images/services/service-d-1-2.jpg" alt="auto loan">
                                 </div><!-- /.service-details__thumbnail -->
-                                <h3 class="service-details__title">auto loan</h3><!-- /.service-details__title -->
+                                <h3 class="service-details__title">WORKING CAPITAL</h3><!-- /.service-details__title -->
                                 <p class="service-details__text wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">There are many
                                     variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
                                     injected humour, or randomised words which don't look even slightly believable. If you are going to use a

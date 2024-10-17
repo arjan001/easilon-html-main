@@ -3,13 +3,11 @@
 <div class="service-sidebar">
     <div class="service-sidebar__info service-sidebar__single wow fadeInLeft" data-wow-duration="1500ms">
         <ul class="list-unstyled service-sidebar__nav">
-            <li><a href="home-loan.php">home loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
-            <li><a href="auto-loan.php">auto loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
-            <li><a href="personal-loan.php">personal loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
-            <li><a href="business-loan.php">business loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
-            <li><a href="study-loan.php">study loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
             
-            <li><a href="property-loan.php">property loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
+            <li><a href="working-capital.php">Working Capital <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
+            <li><a href="personal-loan.php">personal loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
+            
+            <li><a href="study-loan.php">study loan <span class="service-sidebar__nav__icon"><i class="icon-double-right-arrow"></i></span></a></li>
         </ul><!-- /.list-unstyled service-sidebar__nav -->
     </div><!-- /.service-sidebar__info service-sidebar__single -->
 
