@@ -38,7 +38,7 @@
             <!-- /.page-header__bg -->
             <div class="container">
                 <div class="page-header__content">
-                    <h2 class="page-header__title">personal loan</h2>
+                    <h2 class="page-header__title">EMERGENCY LOAN</h2>
                     <ul class="easilon-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>our services</span></li>
