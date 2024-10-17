@@ -465,7 +465,7 @@
                         <div class="tab active-tab fadeInUp animated" data-wow-delay="200ms" id="auto-loan"
                             style="display: block;">
                             <div class="services-one__service">
-                                <a href="auto-loan.php" class="services-one__service__image">
+                                <a href="working-capital.php" class="services-one__service__image">
                                     <img src="assets/images/services/6.avif" alt="service">
                                     <img src="assets/images/services/6.avif" alt="service">
                                     <span class="services-one__service__overlay"></span>
